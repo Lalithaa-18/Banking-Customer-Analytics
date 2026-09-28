@@ -1,0 +1,1201 @@
+Customer_ID,Geography,Gender,Age,Age_Group,Tenure_Years,Balance,Credit_Score,Num_Products,Active_Status,Has_Credit_Card,Estimated_Salary,Customer_Segment
+CUST10001,France,Male,29,26-35,3,114289.71,689,2,Active,No,46597.17,High Value
+CUST10002,Spain,Female,24,18-25,2,49556.91,436,1,Active,Yes,43596.04,Regular
+CUST10003,Germany,Female,46,46-55,7,79941.03,833,2,Active,No,21817.62,Medium Value
+CUST10004,Germany,Female,28,26-35,4,116023.6,676,1,Active,No,120334.71,High Value
+CUST10005,France,Male,50,46-55,9,73628.97,580,2,Active,No,133754.49,Medium Value
+CUST10006,France,Male,23,18-25,6,26508.11,664,2,Active,No,99841.15,Regular
+CUST10007,France,Female,64,56-69,3,188523.88,665,2,Active,Yes,44466.0,High Value
+CUST10008,Spain,Male,32,26-35,3,167027.58,589,2,Active,Yes,57086.14,High Value
+CUST10009,Germany,Male,49,46-55,7,78036.09,667,1,Active,Yes,81870.47,Medium Value
+CUST10010,Germany,Male,68,56-69,7,206556.93,595,2,Inactive,Yes,144064.97,High Value
+CUST10011,France,Male,28,26-35,1,119515.43,613,1,Inactive,Yes,52155.68,High Value
+CUST10012,Spain,Female,40,36-45,1,67086.82,588,1,Active,No,115113.97,Medium Value
+CUST10013,Spain,Male,43,36-45,2,44872.44,521,2,Active,No,77128.27,Regular
+CUST10014,France,Female,51,46-55,2,31191.51,663,1,Inactive,Yes,58720.16,Regular
+CUST10015,France,Male,63,56-69,0,69900.14,702,2,Active,Yes,79269.07,Medium Value
+CUST10016,France,Female,51,46-55,2,38219.49,696,2,Active,Yes,29256.87,Regular
+CUST10017,France,Female,46,46-55,5,41013.22,723,1,Active,Yes,123829.36,Regular
+CUST10018,Germany,Male,21,18-25,7,99505.64,679,1,Active,Yes,51629.25,Medium Value
+CUST10019,France,Female,34,26-35,9,23799.01,602,1,Inactive,Yes,114303.58,Regular
+CUST10020,France,Female,52,46-55,5,17694.37,725,3,Active,Yes,28885.29,Regular
+CUST10021,Germany,Male,30,26-35,4,84310.75,527,2,Active,Yes,144162.81,Medium Value
+CUST10022,France,Female,58,56-69,3,117192.91,568,1,Active,Yes,45091.95,High Value
+CUST10023,France,Male,56,56-69,2,104114.47,563,1,Active,Yes,134756.47,High Value
+CUST10024,France,Female,32,26-35,3,18202.12,747,2,Inactive,Yes,125231.52,Regular
+CUST10025,France,Male,46,46-55,6,44304.84,734,2,Active,Yes,145821.79,Regular
+CUST10026,Spain,Male,46,46-55,0,48860.15,693,1,Active,Yes,82125.79,Regular
+CUST10027,France,Male,28,26-35,6,19383.09,746,1,Active,No,114561.65,Regular
+CUST10028,Germany,Male,69,56-69,0,80284.18,570,3,Inactive,Yes,68192.39,Medium Value
+CUST10029,Germany,Male,49,46-55,1,91326.14,681,1,Active,Yes,43967.87,Medium Value
+CUST10030,France,Female,19,18-25,3,68025.44,638,1,Active,No,77599.87,Medium Value
+CUST10031,Germany,Female,64,56-69,0,19068.87,726,3,Active,Yes,41547.37,Regular
+CUST10032,France,Male,31,26-35,10,256169.29,639,2,Active,No,147665.8,High Value
+CUST10033,France,Female,37,36-45,10,40681.11,615,1,Active,Yes,32512.04,Regular
+CUST10034,Spain,Female,39,36-45,10,147212.28,698,1,Active,Yes,96597.52,High Value
+CUST10035,Spain,Female,28,26-35,8,190443.88,728,1,Active,Yes,101440.3,High Value
+CUST10036,Spain,Male,44,36-45,5,57361.53,589,1,Active,Yes,89950.34,Medium Value
+CUST10037,France,Male,20,18-25,0,104291.39,644,3,Active,Yes,106084.17,High Value
+CUST10038,France,Female,34,26-35,0,24284.48,554,1,Active,Yes,35103.5,Regular
+CUST10039,Germany,Male,61,56-69,5,59206.39,425,2,Active,Yes,92152.41,Medium Value
+CUST10040,France,Male,45,36-45,3,106729.14,668,3,Active,Yes,57337.63,High Value
+CUST10041,France,Female,46,46-55,3,79041.07,704,1,Active,Yes,142222.89,Medium Value
+CUST10042,France,Male,38,36-45,10,126578.45,673,1,Active,Yes,119069.31,High Value
+CUST10043,France,Male,64,56-69,5,54019.99,474,2,Active,Yes,146426.88,Medium Value
+CUST10044,Spain,Male,33,26-35,10,147198.79,618,3,Active,Yes,24882.29,High Value
+CUST10045,France,Male,54,46-55,6,35471.32,450,2,Inactive,Yes,57067.31,Regular
+CUST10046,Germany,Male,37,36-45,8,105240.07,773,1,Active,No,45404.94,High Value
+CUST10047,France,Female,23,18-25,9,49907.42,552,2,Inactive,Yes,21450.1,Regular
+CUST10048,Germany,Male,36,36-45,4,16380.76,762,2,Active,Yes,51502.34,Regular
+CUST10049,Germany,Male,22,18-25,8,125052.19,735,3,Active,Yes,108240.88,High Value
+CUST10050,France,Female,20,18-25,3,43469.51,568,1,Active,Yes,50041.56,Regular
+CUST10051,Spain,Female,18,18-25,9,33123.43,548,2,Active,No,86170.45,Regular
+CUST10052,Spain,Male,55,46-55,1,171058.54,681,2,Active,Yes,135416.35,High Value
+CUST10053,Spain,Female,32,26-35,2,135541.26,574,1,Active,Yes,110188.53,High Value
+CUST10054,Spain,Male,51,46-55,10,31876.07,659,1,Inactive,Yes,71301.78,Regular
+CUST10055,Germany,Female,52,46-55,0,27782.37,606,1,Active,No,68420.96,Regular
+CUST10056,Spain,Male,66,56-69,5,54843.52,489,1,Inactive,Yes,79245.66,Medium Value
+CUST10057,France,Female,42,36-45,5,29626.99,449,1,Inactive,No,43015.39,Regular
+CUST10058,France,Male,41,36-45,0,195536.49,670,3,Active,No,102420.1,High Value
+CUST10059,France,Female,29,26-35,10,15323.54,599,1,Active,Yes,67339.87,Regular
+CUST10060,France,Male,35,26-35,2,233946.67,600,1,Active,No,130807.5,High Value
+CUST10061,France,Male,32,26-35,4,102502.15,712,2,Inactive,Yes,118351.85,High Value
+CUST10062,France,Male,61,56-69,2,115754.6,755,1,Active,No,99366.71,High Value
+CUST10063,Spain,Female,33,26-35,9,84599.55,625,1,Active,Yes,67346.29,Medium Value
+CUST10064,France,Female,44,36-45,2,18010.97,619,2,Active,Yes,47291.14,Regular
+CUST10065,France,Male,25,18-25,9,133270.99,695,2,Inactive,Yes,120899.74,High Value
+CUST10066,Germany,Male,63,56-69,2,80328.05,527,2,Active,No,83233.18,Medium Value
+CUST10067,France,Male,42,36-45,4,35336.28,670,2,Active,Yes,49217.5,Regular
+CUST10068,Spain,Male,34,26-35,4,158315.38,699,1,Active,Yes,45372.7,High Value
+CUST10069,France,Female,46,46-55,3,150525.11,711,3,Inactive,Yes,41502.12,High Value
+CUST10070,Spain,Female,25,18-25,0,158822.16,475,1,Active,Yes,121030.96,High Value
+CUST10071,Spain,Female,32,26-35,4,144286.82,581,2,Active,Yes,49768.33,High Value
+CUST10072,France,Male,44,36-45,9,51491.34,570,1,Active,Yes,88463.49,Medium Value
+CUST10073,France,Male,63,56-69,4,113650.24,658,3,Inactive,Yes,78701.03,High Value
+CUST10074,Spain,Female,67,56-69,3,156149.41,693,2,Active,Yes,95349.42,High Value
+CUST10075,Germany,Female,69,56-69,5,145444.52,784,2,Inactive,Yes,134030.14,High Value
+CUST10076,Germany,Female,24,18-25,9,5668.12,605,1,Active,Yes,132807.16,Regular
+CUST10077,Spain,Female,20,18-25,3,74181.41,605,1,Active,Yes,78639.89,Medium Value
+CUST10078,France,Male,46,46-55,6,44210.26,753,2,Active,No,21997.61,Regular
+CUST10079,France,Male,61,56-69,6,193925.07,676,2,Inactive,Yes,75437.69,High Value
+CUST10080,France,Male,41,36-45,1,74991.08,764,1,Active,No,98805.16,Medium Value
+CUST10081,Spain,Female,20,18-25,2,107500.32,675,3,Inactive,No,92509.42,High Value
+CUST10082,Germany,Male,37,36-45,0,90017.63,545,3,Active,Yes,104673.69,Medium Value
+CUST10083,France,Female,63,56-69,7,181122.04,530,1,Active,Yes,40029.85,High Value
+CUST10084,France,Female,32,26-35,8,235981.41,510,2,Active,No,104049.56,High Value
+CUST10085,France,Female,42,36-45,3,80714.07,709,2,Active,Yes,43744.71,Medium Value
+CUST10086,France,Female,47,46-55,5,93228.1,756,1,Active,Yes,117568.12,Medium Value
+CUST10087,Germany,Female,31,26-35,8,187935.97,816,1,Active,Yes,64081.39,High Value
+CUST10088,Germany,Male,24,18-25,5,30179.87,725,2,Active,Yes,112286.41,Regular
+CUST10089,Spain,Male,34,26-35,8,33483.38,754,2,Inactive,No,26222.53,Regular
+CUST10090,France,Male,61,56-69,3,46728.14,597,1,Active,Yes,73021.8,Regular
+CUST10091,France,Female,37,36-45,7,131574.92,545,2,Active,Yes,111654.49,High Value
+CUST10092,Germany,Male,53,46-55,8,82470.77,726,2,Active,Yes,49493.17,Medium Value
+CUST10093,Spain,Female,26,26-35,3,47120.49,687,2,Active,Yes,123387.32,Regular
+CUST10094,Germany,Male,55,46-55,4,174205.96,659,1,Active,Yes,102001.37,High Value
+CUST10095,Spain,Female,65,56-69,7,19636.8,684,2,Active,Yes,96383.03,Regular
+CUST10096,France,Female,39,36-45,9,45287.69,679,1,Active,No,65961.35,Regular
+CUST10097,Germany,Male,19,18-25,5,70020.91,765,1,Active,Yes,82718.69,Medium Value
+CUST10098,France,Female,41,36-45,6,235278.8,766,1,Active,No,97655.41,High Value
+CUST10099,France,Male,25,18-25,2,46402.14,698,1,Active,Yes,81420.07,Regular
+CUST10100,France,Male,28,26-35,6,113726.15,726,3,Active,Yes,110780.73,High Value
+CUST10101,France,Male,30,26-35,7,69918.31,696,1,Active,Yes,76380.6,Medium Value
+CUST10102,Germany,Female,34,26-35,9,28152.42,608,2,Active,Yes,46295.51,Regular
+CUST10103,France,Female,25,18-25,5,112255.37,718,1,Active,Yes,47811.39,High Value
+CUST10104,Germany,Female,38,36-45,9,62697.5,524,1,Active,Yes,20754.49,Medium Value
+CUST10105,Spain,Female,35,26-35,8,51835.59,744,4,Active,No,59124.5,Medium Value
+CUST10106,France,Male,47,46-55,5,24210.87,542,2,Active,No,117359.29,Regular
+CUST10107,France,Female,35,26-35,8,82930.23,675,1,Active,Yes,123241.15,Medium Value
+CUST10108,Spain,Male,63,56-69,3,201276.44,573,2,Active,Yes,46320.78,High Value
+CUST10109,France,Male,64,56-69,7,48207.8,699,1,Active,Yes,144675.72,Regular
+CUST10110,France,Female,48,46-55,10,30450.44,646,1,Active,Yes,85312.36,Regular
+CUST10111,France,Female,55,46-55,3,16489.44,506,2,Active,Yes,139207.24,Regular
+CUST10112,France,Male,49,46-55,1,14801.01,687,2,Inactive,Yes,111879.49,Regular
+CUST10113,Spain,Female,28,26-35,9,71279.73,597,1,Active,No,113916.34,Medium Value
+CUST10114,Spain,Male,62,56-69,10,83533.64,729,3,Active,No,31055.67,Medium Value
+CUST10115,Germany,Female,42,36-45,8,103385.33,650,2,Inactive,Yes,48598.85,High Value
+CUST10116,Spain,Female,50,46-55,4,73711.85,685,1,Active,Yes,21145.93,Medium Value
+CUST10117,Spain,Male,55,46-55,3,89545.62,563,2,Active,Yes,113096.59,Medium Value
+CUST10118,France,Male,58,56-69,1,199665.27,596,2,Active,No,64776.98,High Value
+CUST10119,Spain,Male,25,18-25,0,174008.28,608,2,Active,Yes,122264.83,High Value
+CUST10120,Germany,Female,28,26-35,10,168421.25,727,1,Active,Yes,64061.71,High Value
+CUST10121,Spain,Female,39,36-45,6,152139.12,800,2,Inactive,No,126513.39,High Value
+CUST10122,Spain,Female,68,56-69,5,122358.54,577,1,Active,Yes,36990.77,High Value
+CUST10123,France,Male,41,36-45,1,19152.26,746,2,Active,Yes,42538.51,Regular
+CUST10124,France,Male,58,56-69,7,66703.12,454,2,Active,Yes,64313.95,Medium Value
+CUST10125,France,Female,34,26-35,10,95379.97,542,1,Active,Yes,73103.36,Medium Value
+CUST10126,France,Male,29,26-35,3,38517.55,563,2,Active,Yes,65331.37,Regular
+CUST10127,Spain,Female,63,56-69,7,221475.43,528,3,Inactive,Yes,119274.11,High Value
+CUST10128,Spain,Male,49,46-55,6,61087.24,507,3,Inactive,Yes,32603.68,Medium Value
+CUST10129,France,Female,32,26-35,4,17266.18,687,1,Active,Yes,65658.21,Regular
+CUST10130,Germany,Female,33,26-35,9,58299.69,630,1,Inactive,No,128841.2,Medium Value
+CUST10131,France,Female,39,36-45,9,105086.34,684,2,Active,Yes,28683.62,High Value
+CUST10132,France,Male,45,36-45,7,38523.79,712,1,Active,Yes,142504.66,Regular
+CUST10133,France,Male,37,36-45,8,70588.01,673,3,Active,Yes,148221.19,Medium Value
+CUST10134,France,Female,50,46-55,4,17647.52,709,1,Active,No,31513.86,Regular
+CUST10135,Spain,Female,27,26-35,9,55810.39,643,1,Active,No,57865.43,Medium Value
+CUST10136,France,Female,57,56-69,4,79310.59,543,1,Active,Yes,68412.09,Medium Value
+CUST10137,Germany,Female,49,46-55,1,73526.33,745,1,Active,Yes,120930.88,Medium Value
+CUST10138,Germany,Female,67,56-69,4,134467.53,596,2,Active,No,97470.49,High Value
+CUST10139,France,Female,50,46-55,2,34763.74,565,1,Active,Yes,103767.54,Regular
+CUST10140,Spain,Male,19,18-25,6,100869.91,633,1,Inactive,Yes,118476.28,High Value
+CUST10141,Spain,Male,50,46-55,9,115714.54,567,1,Active,No,35337.27,High Value
+CUST10142,France,Male,50,46-55,4,44756.5,612,2,Active,Yes,128317.23,Regular
+CUST10143,France,Male,58,56-69,7,38305.31,680,1,Active,No,111730.57,Regular
+CUST10144,France,Female,30,26-35,0,222581.06,681,2,Active,No,95054.42,High Value
+CUST10145,France,Female,47,46-55,2,62374.79,569,2,Active,Yes,135665.59,Medium Value
+CUST10146,France,Female,50,46-55,2,104211.51,606,2,Active,No,111039.83,High Value
+CUST10147,Germany,Male,30,26-35,8,107340.07,746,3,Active,No,46221.0,High Value
+CUST10148,Germany,Male,69,56-69,4,22369.29,694,3,Active,Yes,75866.9,Regular
+CUST10149,France,Female,43,36-45,8,90873.99,836,3,Active,Yes,84225.57,Medium Value
+CUST10150,France,Male,39,36-45,8,87593.95,756,1,Active,Yes,27178.29,Medium Value
+CUST10151,Spain,Male,56,56-69,0,223378.53,752,1,Active,Yes,144102.88,High Value
+CUST10152,France,Female,19,18-25,1,87562.77,525,1,Active,No,36715.04,Medium Value
+CUST10153,France,Female,55,46-55,4,131119.41,718,3,Active,Yes,110669.96,High Value
+CUST10154,France,Female,56,56-69,3,134699.04,645,3,Active,Yes,85810.03,High Value
+CUST10155,Spain,Male,43,36-45,9,63922.75,600,2,Active,Yes,23332.19,Medium Value
+CUST10156,France,Female,63,56-69,8,276655.96,665,1,Inactive,No,140217.17,High Value
+CUST10157,Germany,Female,67,56-69,6,42734.39,735,3,Active,Yes,130738.79,Regular
+CUST10158,Spain,Female,32,26-35,5,17438.11,695,1,Active,Yes,88153.53,Regular
+CUST10159,France,Male,51,46-55,6,53998.34,570,1,Active,Yes,49762.5,Medium Value
+CUST10160,Germany,Male,59,56-69,0,14314.48,716,1,Active,Yes,35810.98,Regular
+CUST10161,France,Female,61,56-69,0,45081.82,592,1,Active,Yes,67241.02,Regular
+CUST10162,Germany,Female,66,56-69,7,78635.1,669,2,Inactive,Yes,53205.68,Medium Value
+CUST10163,Germany,Male,57,56-69,1,93771.67,622,1,Inactive,Yes,85869.86,Medium Value
+CUST10164,Germany,Male,28,26-35,9,58736.5,630,1,Active,Yes,145633.21,Medium Value
+CUST10165,France,Female,20,18-25,10,44731.49,718,2,Active,No,94743.95,Regular
+CUST10166,Spain,Male,23,18-25,8,53404.99,556,2,Active,Yes,135691.04,Medium Value
+CUST10167,France,Female,26,26-35,6,113847.35,825,2,Active,Yes,104614.25,High Value
+CUST10168,France,Female,23,18-25,5,32619.9,486,1,Active,Yes,81782.05,Regular
+CUST10169,France,Male,26,26-35,0,44924.42,596,2,Active,Yes,131098.98,Regular
+CUST10170,Germany,Female,56,56-69,0,98900.51,683,3,Active,Yes,81277.85,Medium Value
+CUST10171,Germany,Female,48,46-55,1,84255.69,702,1,Active,Yes,132921.66,Medium Value
+CUST10172,France,Male,49,46-55,5,16519.65,640,2,Active,Yes,57904.98,Regular
+CUST10173,Germany,Female,58,56-69,5,155311.83,644,1,Active,Yes,36745.7,High Value
+CUST10174,France,Male,67,56-69,1,54548.33,686,1,Active,Yes,131190.88,Medium Value
+CUST10175,Germany,Female,29,26-35,0,29325.76,629,2,Active,No,96363.97,Regular
+CUST10176,France,Female,25,18-25,9,23303.35,775,2,Inactive,Yes,135582.01,Regular
+CUST10177,Germany,Male,25,18-25,4,156756.05,725,1,Active,Yes,141917.54,High Value
+CUST10178,France,Male,67,56-69,4,8553.28,728,2,Active,Yes,26971.69,Regular
+CUST10179,Spain,Male,45,36-45,1,104892.62,563,2,Active,Yes,85126.01,High Value
+CUST10180,France,Male,37,36-45,5,137738.65,642,3,Active,Yes,68745.39,High Value
+CUST10181,France,Male,64,56-69,8,58110.64,622,1,Active,Yes,101361.59,Medium Value
+CUST10182,France,Male,24,18-25,1,209708.9,559,3,Active,Yes,123166.86,High Value
+CUST10183,Spain,Female,28,26-35,9,34279.95,682,1,Inactive,Yes,56476.73,Regular
+CUST10184,Spain,Male,37,36-45,1,113265.12,601,2,Active,Yes,92383.79,High Value
+CUST10185,France,Female,33,26-35,2,85010.46,708,1,Active,No,112134.72,Medium Value
+CUST10186,Germany,Male,21,18-25,6,227171.23,553,1,Active,Yes,37476.04,High Value
+CUST10187,Spain,Female,23,18-25,5,63354.61,804,2,Inactive,Yes,125828.7,Medium Value
+CUST10188,Germany,Female,39,36-45,7,105401.53,569,1,Active,No,98794.25,High Value
+CUST10189,Germany,Male,43,36-45,7,84626.12,669,1,Inactive,Yes,143439.87,Medium Value
+CUST10190,France,Female,20,18-25,5,19361.65,721,1,Inactive,Yes,64138.76,Regular
+CUST10191,France,Female,58,56-69,10,70312.34,598,2,Active,Yes,34058.97,Medium Value
+CUST10192,Spain,Female,59,56-69,9,49060.68,726,1,Inactive,Yes,85845.16,Regular
+CUST10193,Spain,Male,31,26-35,2,85037.46,539,2,Inactive,Yes,31155.4,Medium Value
+CUST10194,Germany,Male,28,26-35,2,106810.61,780,1,Active,No,146038.45,High Value
+CUST10195,France,Female,35,26-35,0,183342.88,651,1,Active,Yes,25029.04,High Value
+CUST10196,France,Male,29,26-35,6,6293.49,596,1,Active,Yes,117955.51,Regular
+CUST10197,Germany,Male,40,36-45,4,78425.57,623,1,Active,No,88263.31,Medium Value
+CUST10198,Spain,Female,29,26-35,3,25036.64,722,1,Active,No,67920.68,Regular
+CUST10199,Spain,Female,30,26-35,9,114302.3,597,1,Active,Yes,28559.48,High Value
+CUST10200,Spain,Male,42,36-45,3,287135.71,582,3,Active,Yes,100881.7,High Value
+CUST10201,Germany,Male,62,56-69,3,60669.7,630,2,Active,Yes,96078.64,Medium Value
+CUST10202,France,Male,68,56-69,5,41264.28,544,1,Active,Yes,56514.83,Regular
+CUST10203,France,Female,36,36-45,7,54276.27,813,1,Inactive,Yes,138328.82,Medium Value
+CUST10204,Spain,Male,63,56-69,7,25379.7,599,2,Active,Yes,59534.3,Regular
+CUST10205,Germany,Male,53,46-55,4,3218.79,724,1,Active,No,78464.3,Regular
+CUST10206,France,Male,62,56-69,5,94258.3,668,1,Active,Yes,90689.12,Medium Value
+CUST10207,France,Female,25,18-25,3,75806.72,561,2,Active,Yes,33030.14,Medium Value
+CUST10208,Germany,Female,46,46-55,10,42185.79,649,2,Inactive,Yes,141181.02,Regular
+CUST10209,France,Female,49,46-55,8,30814.01,720,2,Active,Yes,68689.7,Regular
+CUST10210,France,Male,68,56-69,7,137008.04,633,1,Active,Yes,30501.3,High Value
+CUST10211,Germany,Male,61,56-69,9,173690.29,757,1,Inactive,Yes,70347.85,High Value
+CUST10212,Germany,Female,35,26-35,9,86222.38,741,2,Inactive,No,98026.33,Medium Value
+CUST10213,Germany,Male,23,18-25,0,9286.68,732,1,Active,Yes,86774.85,Regular
+CUST10214,France,Male,35,26-35,1,68158.33,608,2,Active,Yes,110290.46,Medium Value
+CUST10215,Germany,Male,36,36-45,8,99151.84,552,2,Active,Yes,27212.91,Medium Value
+CUST10216,France,Female,39,36-45,7,62532.21,594,1,Active,Yes,56990.28,Medium Value
+CUST10217,France,Male,54,46-55,2,68277.83,667,3,Active,Yes,126499.97,Medium Value
+CUST10218,Germany,Male,49,46-55,7,44772.67,699,2,Active,No,30386.18,Regular
+CUST10219,Germany,Female,58,56-69,0,63619.71,454,2,Inactive,No,131213.17,Medium Value
+CUST10220,Spain,Male,20,18-25,9,145716.39,649,1,Active,Yes,31946.49,High Value
+CUST10221,Germany,Female,45,36-45,3,89912.71,664,1,Active,Yes,128479.05,Medium Value
+CUST10222,Germany,Male,27,26-35,2,50467.03,625,1,Inactive,No,66902.49,Medium Value
+CUST10223,France,Female,68,56-69,5,62672.07,766,1,Active,Yes,99587.18,Medium Value
+CUST10224,France,Female,52,46-55,6,183795.93,687,3,Inactive,Yes,39875.33,High Value
+CUST10225,France,Male,46,46-55,3,31388.09,767,1,Inactive,Yes,28601.93,Regular
+CUST10226,France,Male,32,26-35,6,45148.07,630,1,Active,No,48071.97,Regular
+CUST10227,Spain,Female,50,46-55,8,68163.44,734,1,Active,Yes,36621.0,Medium Value
+CUST10228,France,Male,24,18-25,10,48031.73,797,2,Active,No,60612.77,Regular
+CUST10229,Spain,Female,29,26-35,1,178105.67,768,1,Active,No,86869.82,High Value
+CUST10230,Germany,Male,66,56-69,10,148098.28,551,1,Active,Yes,96538.73,High Value
+CUST10231,Spain,Male,47,46-55,2,67010.48,627,1,Active,No,122682.85,Medium Value
+CUST10232,Germany,Male,38,36-45,4,272520.68,618,3,Inactive,No,105311.19,High Value
+CUST10233,Germany,Male,48,46-55,2,94840.86,694,1,Active,Yes,99138.58,Medium Value
+CUST10234,France,Female,41,36-45,10,201213.11,711,3,Active,Yes,73531.66,High Value
+CUST10235,France,Female,37,36-45,7,188949.03,574,2,Active,Yes,81595.1,High Value
+CUST10236,Germany,Male,54,46-55,9,104681.94,656,1,Active,Yes,73887.71,High Value
+CUST10237,France,Male,21,18-25,7,29363.81,468,2,Inactive,Yes,129481.58,Regular
+CUST10238,France,Male,45,36-45,7,81733.65,779,1,Active,Yes,49900.06,Medium Value
+CUST10239,Germany,Male,61,56-69,8,43891.99,603,3,Active,Yes,20743.72,Regular
+CUST10240,France,Male,37,36-45,3,112829.55,655,2,Active,No,104671.59,High Value
+CUST10241,Spain,Female,41,36-45,4,100654.17,622,1,Active,Yes,46320.08,High Value
+CUST10242,Spain,Female,67,56-69,4,91586.44,753,1,Active,Yes,135714.97,Medium Value
+CUST10243,Spain,Male,66,56-69,7,132552.44,394,1,Active,Yes,131676.02,High Value
+CUST10244,France,Female,68,56-69,6,97607.28,648,4,Active,Yes,29974.56,Medium Value
+CUST10245,France,Female,49,46-55,8,73216.53,640,1,Inactive,Yes,33830.49,Medium Value
+CUST10246,Spain,Male,58,56-69,7,27244.59,609,2,Inactive,Yes,84372.31,Regular
+CUST10247,France,Female,53,46-55,1,47507.83,805,1,Active,Yes,99198.95,Regular
+CUST10248,Spain,Female,51,46-55,9,33615.0,570,3,Inactive,No,55738.08,Regular
+CUST10249,Spain,Female,53,46-55,3,138043.88,719,1,Active,No,113183.7,High Value
+CUST10250,Spain,Female,19,18-25,5,69745.25,682,2,Active,Yes,97339.08,Medium Value
+CUST10251,France,Male,32,26-35,1,91858.41,763,1,Active,No,62227.13,Medium Value
+CUST10252,France,Female,51,46-55,6,53985.55,589,2,Active,No,23298.29,Medium Value
+CUST10253,Spain,Female,53,46-55,2,160747.56,584,1,Active,Yes,117519.54,High Value
+CUST10254,France,Female,23,18-25,2,117873.23,748,1,Active,No,47917.98,High Value
+CUST10255,France,Male,56,56-69,10,84177.72,688,1,Active,No,128481.59,Medium Value
+CUST10256,Germany,Female,59,56-69,1,75407.48,510,2,Active,Yes,74637.73,Medium Value
+CUST10257,Spain,Female,68,56-69,10,40227.36,601,1,Active,Yes,95020.07,Regular
+CUST10258,Germany,Female,68,56-69,7,48365.36,684,2,Active,Yes,133483.33,Regular
+CUST10259,Germany,Male,29,26-35,5,19390.8,725,1,Inactive,Yes,132270.99,Regular
+CUST10260,France,Male,20,18-25,0,119468.8,588,2,Active,No,68297.54,High Value
+CUST10261,Germany,Male,62,56-69,0,126814.5,387,3,Active,Yes,47155.56,High Value
+CUST10262,Spain,Male,35,26-35,6,130560.65,697,2,Active,No,120768.99,High Value
+CUST10263,France,Male,57,56-69,7,35564.56,540,1,Active,No,76300.43,Regular
+CUST10264,Germany,Female,38,36-45,4,192910.33,468,1,Active,Yes,44965.46,High Value
+CUST10265,Spain,Male,32,26-35,10,60819.46,395,1,Active,Yes,137575.29,Medium Value
+CUST10266,Germany,Female,50,46-55,4,110123.93,723,1,Inactive,Yes,45753.55,High Value
+CUST10267,Germany,Male,52,46-55,3,26730.98,661,2,Active,Yes,23354.93,Regular
+CUST10268,Germany,Male,43,36-45,5,166020.81,629,2,Inactive,Yes,22636.4,High Value
+CUST10269,France,Male,25,18-25,5,123531.16,775,3,Active,Yes,100901.0,High Value
+CUST10270,France,Female,53,46-55,2,62796.68,707,1,Active,Yes,106017.76,Medium Value
+CUST10271,Spain,Female,65,56-69,8,54442.7,795,2,Inactive,No,60435.42,Medium Value
+CUST10272,Spain,Female,47,46-55,10,121513.28,524,1,Active,Yes,61601.43,High Value
+CUST10273,Spain,Male,40,36-45,6,165711.91,646,2,Active,Yes,64134.21,High Value
+CUST10274,Spain,Male,59,56-69,0,40453.73,504,1,Active,Yes,108420.61,Regular
+CUST10275,Germany,Male,61,56-69,6,72946.12,629,1,Inactive,No,27557.39,Medium Value
+CUST10276,Germany,Male,31,26-35,4,52898.76,627,1,Active,Yes,140785.13,Medium Value
+CUST10277,Spain,Male,31,26-35,4,170809.95,706,2,Active,Yes,48927.74,High Value
+CUST10278,Germany,Male,19,18-25,1,48866.05,654,3,Active,No,149957.52,Regular
+CUST10279,Germany,Female,54,46-55,3,27695.69,706,1,Inactive,Yes,42297.95,Regular
+CUST10280,Spain,Female,22,18-25,5,125181.05,713,1,Active,Yes,120301.04,High Value
+CUST10281,Spain,Male,55,46-55,9,182656.52,843,1,Active,Yes,49043.63,High Value
+CUST10282,France,Female,62,56-69,10,120373.43,621,2,Active,No,30510.08,High Value
+CUST10283,France,Female,58,56-69,6,157351.92,565,1,Active,Yes,133741.33,High Value
+CUST10284,France,Female,64,56-69,10,260829.78,672,2,Active,Yes,131637.66,High Value
+CUST10285,Germany,Male,31,26-35,4,228355.48,577,4,Active,Yes,72464.15,High Value
+CUST10286,France,Male,56,56-69,8,229997.44,783,3,Active,No,111311.5,High Value
+CUST10287,France,Male,42,36-45,2,53414.52,624,1,Active,Yes,92418.57,Medium Value
+CUST10288,Germany,Male,37,36-45,0,126105.22,599,2,Inactive,Yes,130884.29,High Value
+CUST10289,France,Female,19,18-25,3,87892.24,607,2,Active,No,60957.28,Medium Value
+CUST10290,Germany,Male,56,56-69,8,86782.91,714,1,Inactive,Yes,88077.41,Medium Value
+CUST10291,France,Male,23,18-25,3,161686.62,635,2,Active,No,83098.41,High Value
+CUST10292,France,Male,34,26-35,1,114334.53,592,2,Inactive,No,66007.76,High Value
+CUST10293,Spain,Female,42,36-45,9,74665.42,799,1,Active,No,135889.16,Medium Value
+CUST10294,France,Female,45,36-45,4,46577.94,572,1,Active,Yes,41564.13,Regular
+CUST10295,France,Female,19,18-25,2,114998.19,653,1,Inactive,Yes,39436.12,High Value
+CUST10296,Germany,Female,52,46-55,8,69552.81,708,2,Inactive,No,94998.24,Medium Value
+CUST10297,Spain,Female,54,46-55,3,161174.78,503,1,Active,No,105474.25,High Value
+CUST10298,France,Male,22,18-25,5,157922.34,693,3,Active,Yes,45300.5,High Value
+CUST10299,Germany,Female,18,18-25,1,103949.84,555,2,Active,No,70793.27,High Value
+CUST10300,France,Female,57,56-69,5,33162.9,724,2,Active,Yes,143053.3,Regular
+CUST10301,France,Male,29,26-35,2,57721.32,563,1,Active,Yes,52060.26,Medium Value
+CUST10302,Germany,Male,53,46-55,8,236068.23,712,2,Active,Yes,106886.89,High Value
+CUST10303,Germany,Male,62,56-69,10,112409.32,749,1,Inactive,No,116219.42,High Value
+CUST10304,Germany,Female,40,36-45,1,182249.79,727,1,Active,Yes,78256.73,High Value
+CUST10305,Germany,Male,64,56-69,8,34530.06,672,2,Active,Yes,141878.38,Regular
+CUST10306,Spain,Female,48,46-55,4,418045.49,629,1,Active,No,115765.38,High Value
+CUST10307,Germany,Male,28,26-35,7,16622.01,598,2,Active,Yes,79530.2,Regular
+CUST10308,France,Female,27,26-35,1,113560.15,782,1,Active,Yes,94013.58,High Value
+CUST10309,Spain,Female,20,18-25,5,14959.97,587,1,Active,Yes,110039.75,Regular
+CUST10310,France,Female,31,26-35,2,161170.98,556,1,Active,Yes,96984.72,High Value
+CUST10311,France,Female,33,26-35,9,40594.98,709,4,Inactive,Yes,134230.69,Regular
+CUST10312,France,Male,27,26-35,4,70156.71,578,2,Active,No,66395.53,Medium Value
+CUST10313,France,Male,46,46-55,7,99032.08,564,2,Active,Yes,58985.15,Medium Value
+CUST10314,Spain,Female,27,26-35,9,133781.98,520,1,Active,No,47799.06,High Value
+CUST10315,Spain,Male,29,26-35,0,69230.23,606,1,Inactive,Yes,24911.79,Medium Value
+CUST10316,Germany,Female,47,46-55,4,91197.54,642,3,Active,Yes,25591.82,Medium Value
+CUST10317,France,Male,58,56-69,2,96157.69,671,1,Active,Yes,133107.18,Medium Value
+CUST10318,France,Male,18,18-25,3,82769.64,735,1,Active,Yes,108191.11,Medium Value
+CUST10319,France,Female,22,18-25,1,68391.12,697,2,Inactive,Yes,105869.21,Medium Value
+CUST10320,France,Female,37,36-45,8,53749.1,632,1,Active,Yes,99903.57,Medium Value
+CUST10321,Germany,Male,25,18-25,2,99779.89,632,2,Active,Yes,130398.49,Medium Value
+CUST10322,Germany,Female,60,56-69,1,97465.16,695,2,Inactive,Yes,82434.7,Medium Value
+CUST10323,Germany,Male,29,26-35,9,46044.98,764,1,Active,Yes,133153.41,Regular
+CUST10324,France,Male,18,18-25,10,68639.06,661,1,Active,Yes,66727.85,Medium Value
+CUST10325,Spain,Male,37,36-45,8,15135.01,607,1,Active,No,140471.98,Regular
+CUST10326,Germany,Female,45,36-45,6,65882.15,560,3,Active,Yes,110825.41,Medium Value
+CUST10327,Germany,Female,60,56-69,5,15671.87,519,2,Active,Yes,53433.03,Regular
+CUST10328,Germany,Male,54,46-55,0,54728.19,709,1,Active,No,93331.04,Medium Value
+CUST10329,France,Female,64,56-69,4,33391.04,702,1,Active,No,89293.97,Regular
+CUST10330,France,Female,54,46-55,10,42330.42,701,2,Active,Yes,37926.85,Regular
+CUST10331,France,Male,29,26-35,10,186142.71,638,2,Inactive,Yes,96861.58,High Value
+CUST10332,Spain,Female,54,46-55,2,29533.91,776,1,Active,Yes,60922.13,Regular
+CUST10333,France,Female,66,56-69,0,58581.75,606,1,Active,Yes,26805.34,Medium Value
+CUST10334,France,Male,66,56-69,3,99040.31,735,1,Active,No,143325.3,Medium Value
+CUST10335,France,Female,61,56-69,1,11806.7,646,2,Active,No,103393.75,Regular
+CUST10336,France,Male,45,36-45,1,70098.17,595,3,Active,Yes,133999.46,Medium Value
+CUST10337,Spain,Female,64,56-69,2,92763.9,703,1,Active,No,107887.28,Medium Value
+CUST10338,Germany,Female,32,26-35,7,31853.37,686,2,Inactive,Yes,66407.88,Regular
+CUST10339,France,Male,23,18-25,7,21729.87,682,1,Active,Yes,86649.45,Regular
+CUST10340,France,Male,61,56-69,6,132327.36,657,1,Inactive,No,107847.08,High Value
+CUST10341,France,Female,37,36-45,5,12339.69,646,1,Inactive,Yes,144832.8,Regular
+CUST10342,France,Male,67,56-69,8,57904.08,850,2,Active,No,52977.03,Medium Value
+CUST10343,France,Male,31,26-35,3,28140.88,756,1,Active,No,133747.02,Regular
+CUST10344,France,Female,19,18-25,0,6386.83,715,2,Inactive,Yes,140130.11,Regular
+CUST10345,France,Male,26,26-35,7,162712.96,660,1,Inactive,Yes,107154.02,High Value
+CUST10346,Germany,Female,54,46-55,6,124383.91,740,1,Active,Yes,141064.66,High Value
+CUST10347,Germany,Female,37,36-45,6,171684.79,696,1,Active,Yes,71724.22,High Value
+CUST10348,France,Male,43,36-45,2,86516.24,652,2,Active,Yes,143892.1,Medium Value
+CUST10349,France,Female,46,46-55,3,28184.39,622,1,Inactive,Yes,111361.77,Regular
+CUST10350,Germany,Male,18,18-25,9,53093.46,642,2,Active,No,25460.75,Medium Value
+CUST10351,Germany,Female,52,46-55,8,20708.49,364,1,Active,Yes,137893.47,Regular
+CUST10352,Spain,Male,23,18-25,5,63748.59,668,1,Inactive,Yes,82981.47,Medium Value
+CUST10353,Germany,Male,54,46-55,4,155806.71,606,1,Active,Yes,79842.51,High Value
+CUST10354,France,Female,22,18-25,2,53440.4,793,1,Active,No,93640.66,Medium Value
+CUST10355,France,Male,50,46-55,8,99906.5,651,1,Active,Yes,39419.99,Medium Value
+CUST10356,Germany,Male,66,56-69,4,94412.59,542,1,Inactive,Yes,80991.59,Medium Value
+CUST10357,France,Male,68,56-69,4,26181.28,645,2,Active,No,128046.54,Regular
+CUST10358,Germany,Female,31,26-35,3,26789.13,555,2,Active,Yes,22012.72,Regular
+CUST10359,Spain,Female,29,26-35,3,122754.42,692,1,Active,Yes,55479.23,High Value
+CUST10360,Germany,Male,59,56-69,0,37534.23,676,1,Active,No,20319.1,Regular
+CUST10361,France,Male,37,36-45,6,103810.46,736,1,Active,Yes,74042.47,High Value
+CUST10362,Germany,Female,67,56-69,8,36963.86,578,1,Active,No,114681.02,Regular
+CUST10363,France,Female,41,36-45,2,44110.31,653,1,Active,Yes,123840.34,Regular
+CUST10364,Germany,Female,60,56-69,1,102315.72,527,3,Inactive,Yes,142874.67,High Value
+CUST10365,Spain,Male,51,46-55,2,67950.94,713,1,Inactive,No,99105.6,Medium Value
+CUST10366,France,Female,42,36-45,0,59981.28,696,1,Active,Yes,53101.49,Medium Value
+CUST10367,Spain,Male,67,56-69,5,34008.25,694,1,Active,No,140139.23,Regular
+CUST10368,Spain,Female,46,46-55,10,85257.08,650,1,Active,No,120791.05,Medium Value
+CUST10369,France,Male,56,56-69,10,39224.51,687,2,Inactive,No,94675.7,Regular
+CUST10370,France,Female,48,46-55,6,112184.74,794,1,Active,No,110433.23,High Value
+CUST10371,France,Male,64,56-69,10,34610.65,624,1,Active,Yes,140161.13,Regular
+CUST10372,France,Female,60,56-69,10,59472.5,662,2,Active,No,112611.22,Medium Value
+CUST10373,France,Female,67,56-69,1,113569.04,552,1,Active,Yes,67888.69,High Value
+CUST10374,Germany,Male,40,36-45,7,96653.69,571,2,Active,Yes,112693.67,Medium Value
+CUST10375,France,Female,61,56-69,5,101962.22,658,2,Active,No,25236.16,High Value
+CUST10376,France,Female,55,46-55,3,70541.27,749,1,Active,Yes,70234.02,Medium Value
+CUST10377,Spain,Female,37,36-45,4,28198.17,626,2,Active,Yes,72821.99,Regular
+CUST10378,France,Female,40,36-45,7,136251.24,628,1,Active,Yes,41688.97,High Value
+CUST10379,Spain,Male,62,56-69,2,76842.05,613,2,Active,Yes,23001.11,Medium Value
+CUST10380,France,Male,69,56-69,2,46452.16,601,1,Active,No,37339.56,Regular
+CUST10381,France,Female,33,26-35,10,43416.11,676,1,Active,Yes,105100.79,Regular
+CUST10382,Germany,Male,67,56-69,3,209721.55,515,2,Active,Yes,124297.55,High Value
+CUST10383,Germany,Male,59,56-69,0,67175.25,765,2,Active,No,148466.45,Medium Value
+CUST10384,Spain,Male,25,18-25,8,22354.79,590,4,Active,Yes,65027.26,Regular
+CUST10385,Germany,Male,67,56-69,7,166683.81,714,2,Active,Yes,97919.3,High Value
+CUST10386,Spain,Male,38,36-45,7,59249.02,535,1,Active,Yes,141828.85,Medium Value
+CUST10387,France,Female,18,18-25,9,48790.81,710,1,Active,Yes,41715.43,Regular
+CUST10388,France,Male,25,18-25,5,30397.13,710,1,Inactive,Yes,113293.93,Regular
+CUST10389,Spain,Female,46,46-55,6,79627.48,684,1,Active,No,118147.24,Medium Value
+CUST10390,Spain,Male,49,46-55,5,141085.25,560,1,Active,Yes,31566.82,High Value
+CUST10391,Spain,Female,55,46-55,8,81677.38,672,3,Active,No,131962.42,Medium Value
+CUST10392,France,Female,22,18-25,2,52530.74,543,1,Active,No,125703.66,Medium Value
+CUST10393,France,Female,64,56-69,2,18782.24,627,1,Active,Yes,24342.39,Regular
+CUST10394,Spain,Male,39,36-45,2,62340.61,742,1,Active,Yes,31840.97,Medium Value
+CUST10395,France,Male,64,56-69,9,93585.48,721,2,Active,Yes,26386.5,Medium Value
+CUST10396,Spain,Female,51,46-55,2,37493.24,651,2,Active,Yes,63516.66,Regular
+CUST10397,Spain,Female,18,18-25,8,171431.63,562,2,Active,No,86207.57,High Value
+CUST10398,France,Male,43,36-45,3,53636.34,708,1,Inactive,Yes,89205.2,Medium Value
+CUST10399,Spain,Male,60,56-69,6,98568.23,651,2,Inactive,Yes,54796.68,Medium Value
+CUST10400,Spain,Female,27,26-35,8,55479.97,441,1,Active,Yes,138507.6,Medium Value
+CUST10401,France,Male,47,46-55,10,129219.95,720,2,Active,Yes,67874.16,High Value
+CUST10402,Spain,Male,67,56-69,6,85117.37,647,2,Active,Yes,25921.52,Medium Value
+CUST10403,Germany,Male,35,26-35,8,203463.74,758,1,Active,Yes,59029.52,High Value
+CUST10404,Spain,Male,34,26-35,2,86578.92,551,1,Active,Yes,89044.22,Medium Value
+CUST10405,France,Male,43,36-45,3,111124.63,364,2,Active,Yes,73068.84,High Value
+CUST10406,Spain,Male,25,18-25,7,90183.7,675,1,Active,Yes,55599.53,Medium Value
+CUST10407,France,Female,64,56-69,5,28536.88,676,2,Active,No,37072.02,Regular
+CUST10408,France,Female,57,56-69,4,164343.46,497,1,Active,Yes,126491.39,High Value
+CUST10409,Spain,Female,66,56-69,3,98991.79,561,1,Active,Yes,149498.88,Medium Value
+CUST10410,France,Female,29,26-35,7,113164.12,850,1,Inactive,Yes,62840.48,High Value
+CUST10411,France,Female,44,36-45,0,150146.59,622,1,Active,Yes,69610.74,High Value
+CUST10412,Spain,Female,25,18-25,8,154355.07,715,1,Active,No,100344.88,High Value
+CUST10413,Spain,Male,42,36-45,0,31063.55,591,1,Active,Yes,113397.39,Regular
+CUST10414,Germany,Male,63,56-69,7,25516.83,461,2,Active,Yes,70963.84,Regular
+CUST10415,Germany,Female,21,18-25,3,40125.35,634,1,Active,No,137640.84,Regular
+CUST10416,France,Female,50,46-55,8,26284.43,626,3,Active,No,92800.52,Regular
+CUST10417,France,Female,18,18-25,10,54474.89,614,2,Active,Yes,78550.71,Medium Value
+CUST10418,France,Male,36,36-45,4,29053.83,639,2,Active,Yes,104067.46,Regular
+CUST10419,Germany,Male,48,46-55,2,30844.86,673,1,Active,No,143864.5,Regular
+CUST10420,Spain,Male,33,26-35,8,96799.37,636,1,Active,Yes,123291.8,Medium Value
+CUST10421,Spain,Male,31,26-35,10,16738.47,536,1,Active,No,25201.71,Regular
+CUST10422,Spain,Female,65,56-69,8,78968.35,693,2,Active,No,63200.29,Medium Value
+CUST10423,France,Female,22,18-25,3,135888.19,474,2,Active,No,81170.81,High Value
+CUST10424,France,Female,58,56-69,10,135165.63,465,1,Active,Yes,60887.28,High Value
+CUST10425,France,Female,43,36-45,3,115576.55,716,1,Inactive,No,111024.38,High Value
+CUST10426,Germany,Male,45,36-45,7,125741.0,695,2,Active,Yes,127414.99,High Value
+CUST10427,France,Male,19,18-25,1,120808.97,644,1,Active,No,115074.86,High Value
+CUST10428,Spain,Female,67,56-69,8,30171.46,524,2,Active,Yes,148613.33,Regular
+CUST10429,France,Male,23,18-25,5,63896.79,586,2,Inactive,Yes,55431.19,Medium Value
+CUST10430,France,Male,26,26-35,8,117658.27,626,2,Inactive,Yes,133748.63,High Value
+CUST10431,France,Male,50,46-55,7,52965.64,506,1,Active,Yes,119660.95,Medium Value
+CUST10432,Spain,Male,58,56-69,6,53387.35,583,1,Active,Yes,67083.24,Medium Value
+CUST10433,Germany,Female,42,36-45,0,92308.63,708,2,Active,No,115436.19,Medium Value
+CUST10434,France,Male,65,56-69,2,223462.79,778,3,Active,Yes,33529.87,High Value
+CUST10435,France,Female,30,26-35,10,132244.46,612,1,Active,No,122613.35,High Value
+CUST10436,Germany,Male,26,26-35,1,17240.18,718,1,Active,Yes,89202.98,Regular
+CUST10437,France,Male,30,26-35,4,85662.49,477,2,Active,Yes,57997.72,Medium Value
+CUST10438,Spain,Female,48,46-55,4,33595.15,709,3,Active,Yes,105251.05,Regular
+CUST10439,Germany,Female,58,56-69,4,138172.04,577,2,Inactive,Yes,103410.6,High Value
+CUST10440,France,Male,28,26-35,3,174369.75,677,4,Active,No,47233.21,High Value
+CUST10441,France,Male,21,18-25,4,246936.37,627,1,Active,Yes,23951.66,High Value
+CUST10442,Spain,Female,51,46-55,2,134661.53,768,1,Active,Yes,76370.94,High Value
+CUST10443,France,Male,55,46-55,0,108346.83,571,2,Inactive,Yes,94036.54,High Value
+CUST10444,France,Male,63,56-69,4,111194.35,706,2,Inactive,No,133958.69,High Value
+CUST10445,Spain,Female,21,18-25,8,32965.33,624,1,Active,Yes,140668.18,Regular
+CUST10446,Spain,Male,55,46-55,8,72958.08,635,1,Active,Yes,88744.68,Medium Value
+CUST10447,Spain,Male,36,36-45,3,87259.09,633,2,Inactive,Yes,117994.45,Medium Value
+CUST10448,Spain,Male,23,18-25,2,45517.54,573,1,Active,Yes,77109.43,Regular
+CUST10449,France,Male,51,46-55,0,105288.04,648,1,Active,Yes,116990.68,High Value
+CUST10450,France,Male,35,26-35,1,268671.68,644,2,Active,No,46624.2,High Value
+CUST10451,Spain,Female,30,26-35,7,116781.75,671,2,Active,Yes,68238.42,High Value
+CUST10452,Germany,Male,58,56-69,0,74674.79,657,2,Active,Yes,102449.64,Medium Value
+CUST10453,France,Female,40,36-45,7,107207.4,721,1,Inactive,Yes,22360.54,High Value
+CUST10454,Spain,Female,36,36-45,6,86068.37,733,2,Active,Yes,113919.97,Medium Value
+CUST10455,France,Male,62,56-69,7,62333.88,555,2,Active,Yes,128619.62,Medium Value
+CUST10456,France,Female,28,26-35,5,21973.38,728,2,Active,No,71888.42,Regular
+CUST10457,France,Male,18,18-25,8,122172.69,543,2,Active,No,78232.51,High Value
+CUST10458,France,Female,41,36-45,2,105723.17,702,1,Active,No,130666.69,High Value
+CUST10459,France,Female,24,18-25,9,105991.35,705,1,Active,No,120835.1,High Value
+CUST10460,France,Female,42,36-45,3,164972.5,477,1,Active,Yes,57459.43,High Value
+CUST10461,France,Male,38,36-45,5,52247.31,658,1,Active,Yes,62116.89,Medium Value
+CUST10462,Germany,Female,32,26-35,7,74546.93,607,2,Active,Yes,108254.17,Medium Value
+CUST10463,Germany,Female,18,18-25,4,38990.92,581,2,Active,Yes,93215.75,Regular
+CUST10464,Germany,Female,29,26-35,2,50645.77,771,2,Inactive,Yes,41089.84,Medium Value
+CUST10465,Spain,Male,24,18-25,5,24924.87,591,2,Active,Yes,60290.89,Regular
+CUST10466,France,Male,32,26-35,3,41160.99,577,1,Active,Yes,136997.83,Regular
+CUST10467,France,Female,38,36-45,8,99309.18,656,1,Active,No,109462.68,Medium Value
+CUST10468,Spain,Female,36,36-45,2,252871.58,711,1,Active,No,148176.66,High Value
+CUST10469,France,Female,46,46-55,3,29272.65,637,1,Active,No,119711.63,Regular
+CUST10470,Spain,Female,42,36-45,6,61804.11,754,1,Active,Yes,142456.68,Medium Value
+CUST10471,France,Male,50,46-55,6,224710.68,697,2,Active,Yes,48104.51,High Value
+CUST10472,Spain,Male,66,56-69,3,110667.74,453,4,Active,Yes,120293.03,High Value
+CUST10473,France,Male,49,46-55,5,94719.66,602,1,Active,Yes,22628.28,Medium Value
+CUST10474,Spain,Female,66,56-69,2,37020.97,599,1,Active,Yes,107198.8,Regular
+CUST10475,Germany,Male,52,46-55,5,66623.71,693,2,Active,Yes,81006.7,Medium Value
+CUST10476,Spain,Female,61,56-69,1,47508.9,413,1,Active,Yes,65078.81,Regular
+CUST10477,France,Female,55,46-55,7,103894.36,850,2,Active,Yes,132112.57,High Value
+CUST10478,Germany,Female,43,36-45,1,105586.95,697,2,Active,Yes,131054.8,High Value
+CUST10479,Spain,Male,28,26-35,10,54619.83,663,3,Active,Yes,22899.22,Medium Value
+CUST10480,Germany,Female,52,46-55,6,62968.3,756,1,Active,Yes,99235.67,Medium Value
+CUST10481,Germany,Male,25,18-25,8,165329.21,850,2,Active,Yes,67818.19,High Value
+CUST10482,Germany,Female,63,56-69,0,177828.2,728,1,Active,Yes,74035.93,High Value
+CUST10483,France,Male,31,26-35,7,58693.35,735,2,Inactive,Yes,128165.3,Medium Value
+CUST10484,Germany,Female,27,26-35,6,60000.64,661,1,Inactive,Yes,60279.17,Medium Value
+CUST10485,Germany,Male,19,18-25,5,27737.1,637,1,Active,No,142596.35,Regular
+CUST10486,Spain,Female,63,56-69,5,62796.9,607,2,Active,No,43352.4,Medium Value
+CUST10487,France,Male,26,26-35,5,79220.22,575,2,Active,Yes,106153.92,Medium Value
+CUST10488,France,Female,20,18-25,8,100487.87,588,2,Active,Yes,107373.66,High Value
+CUST10489,Spain,Female,38,36-45,1,64611.88,528,2,Active,Yes,52785.37,Medium Value
+CUST10490,Spain,Female,43,36-45,0,186260.68,643,2,Active,Yes,62217.58,High Value
+CUST10491,France,Male,25,18-25,5,192358.93,498,1,Active,Yes,128523.8,High Value
+CUST10492,Germany,Female,65,56-69,9,256987.52,667,2,Inactive,Yes,119034.68,High Value
+CUST10493,France,Female,19,18-25,10,100311.57,646,2,Active,Yes,62782.46,High Value
+CUST10494,France,Female,23,18-25,7,62483.57,663,3,Inactive,Yes,89414.35,Medium Value
+CUST10495,France,Male,45,36-45,2,95199.19,603,3,Active,No,28018.44,Medium Value
+CUST10496,France,Female,46,46-55,9,65819.88,850,1,Active,Yes,47136.96,Medium Value
+CUST10497,Germany,Female,43,36-45,0,166016.06,772,2,Active,No,83156.67,High Value
+CUST10498,France,Male,42,36-45,8,122287.15,537,1,Active,Yes,31176.59,High Value
+CUST10499,Spain,Female,29,26-35,0,54257.7,670,1,Active,Yes,129633.21,Medium Value
+CUST10500,Spain,Male,22,18-25,2,123702.35,595,2,Active,No,113340.81,High Value
+CUST10501,Germany,Female,51,46-55,7,14479.64,558,1,Active,No,142672.38,Regular
+CUST10502,Germany,Male,65,56-69,2,200635.42,529,2,Active,Yes,110150.7,High Value
+CUST10503,France,Male,54,46-55,3,45011.79,688,1,Inactive,Yes,142252.18,Regular
+CUST10504,Spain,Male,32,26-35,7,183845.7,588,1,Active,Yes,92086.63,High Value
+CUST10505,Germany,Female,61,56-69,0,54209.2,737,2,Inactive,Yes,98028.42,Medium Value
+CUST10506,France,Female,53,46-55,5,82689.84,739,2,Active,No,147006.24,Medium Value
+CUST10507,Spain,Male,32,26-35,0,60638.38,773,3,Active,No,103476.79,Medium Value
+CUST10508,Spain,Female,60,56-69,0,106702.46,573,2,Active,Yes,24002.25,High Value
+CUST10509,Spain,Female,65,56-69,7,29137.59,692,2,Active,Yes,114094.36,Regular
+CUST10510,Germany,Male,40,36-45,10,7216.33,706,1,Inactive,Yes,137710.93,Regular
+CUST10511,Germany,Male,23,18-25,3,175335.73,607,1,Active,Yes,123425.43,High Value
+CUST10512,France,Male,63,56-69,0,199399.96,580,1,Active,No,95898.33,High Value
+CUST10513,Spain,Male,67,56-69,9,54135.51,794,2,Active,No,107269.46,Medium Value
+CUST10514,Spain,Female,61,56-69,6,39384.84,670,2,Active,Yes,148724.93,Regular
+CUST10515,France,Female,60,56-69,4,66197.66,707,1,Active,Yes,31786.07,Medium Value
+CUST10516,France,Female,62,56-69,4,29710.81,576,2,Active,Yes,106741.83,Regular
+CUST10517,France,Female,38,36-45,0,99866.77,540,2,Active,Yes,56841.7,Medium Value
+CUST10518,Spain,Female,40,36-45,9,58853.5,598,1,Active,No,103211.75,Medium Value
+CUST10519,Spain,Female,60,56-69,10,52745.2,638,1,Inactive,Yes,98991.06,Medium Value
+CUST10520,France,Male,33,26-35,5,49019.69,554,2,Active,Yes,39949.39,Regular
+CUST10521,Germany,Female,64,56-69,8,72461.3,649,2,Active,Yes,46877.06,Medium Value
+CUST10522,France,Female,32,26-35,8,59562.37,498,3,Active,No,100811.85,Medium Value
+CUST10523,Spain,Female,42,36-45,7,73814.41,549,1,Active,Yes,36669.89,Medium Value
+CUST10524,Spain,Male,53,46-55,4,45628.25,710,4,Active,No,54473.51,Regular
+CUST10525,Spain,Male,28,26-35,0,151329.69,704,1,Active,No,128581.92,High Value
+CUST10526,France,Female,68,56-69,8,99868.68,614,1,Active,No,62521.9,Medium Value
+CUST10527,France,Male,32,26-35,0,74209.47,558,4,Active,Yes,83447.82,Medium Value
+CUST10528,France,Male,21,18-25,7,33242.77,557,1,Active,Yes,142348.24,Regular
+CUST10529,France,Female,38,36-45,4,145173.32,616,2,Active,Yes,49529.38,High Value
+CUST10530,Spain,Female,30,26-35,2,47511.69,708,1,Active,Yes,70651.38,Regular
+CUST10531,Spain,Female,39,36-45,10,82481.6,733,2,Active,Yes,98839.51,Medium Value
+CUST10532,Spain,Male,36,36-45,6,49149.29,605,3,Inactive,Yes,118194.06,Regular
+CUST10533,Spain,Male,51,46-55,6,122315.25,546,1,Active,Yes,137214.94,High Value
+CUST10534,Germany,Female,31,26-35,8,10746.02,674,2,Inactive,No,139011.49,Regular
+CUST10535,Spain,Male,21,18-25,6,48346.43,575,1,Active,Yes,120963.21,Regular
+CUST10536,Spain,Male,65,56-69,10,124046.14,603,2,Active,Yes,49683.01,High Value
+CUST10537,Spain,Male,69,56-69,2,41805.72,769,1,Active,No,23225.21,Regular
+CUST10538,France,Female,63,56-69,10,11579.67,724,1,Active,No,69890.61,Regular
+CUST10539,France,Female,44,36-45,0,45675.86,664,1,Active,No,38401.35,Regular
+CUST10540,France,Female,46,46-55,7,93778.59,535,1,Active,No,112350.39,Medium Value
+CUST10541,Spain,Female,64,56-69,2,28134.83,669,3,Inactive,No,105946.98,Regular
+CUST10542,Germany,Female,45,36-45,7,68941.26,745,1,Active,Yes,25716.31,Medium Value
+CUST10543,France,Male,52,46-55,7,69061.41,616,1,Active,Yes,128757.19,Medium Value
+CUST10544,Germany,Male,25,18-25,4,221785.7,771,1,Active,Yes,52336.62,High Value
+CUST10545,Germany,Male,33,26-35,0,38499.48,766,1,Active,Yes,76189.52,Regular
+CUST10546,France,Male,59,56-69,9,207164.05,799,2,Active,Yes,106831.39,High Value
+CUST10547,France,Male,53,46-55,6,38698.82,677,3,Active,Yes,75824.44,Regular
+CUST10548,Germany,Male,47,46-55,9,112432.37,702,1,Active,Yes,77367.41,High Value
+CUST10549,Germany,Female,35,26-35,4,61161.65,777,2,Active,Yes,28531.64,Medium Value
+CUST10550,Spain,Female,19,18-25,7,54443.05,690,2,Inactive,Yes,72187.66,Medium Value
+CUST10551,Germany,Male,66,56-69,8,21686.74,604,1,Active,No,119430.23,Regular
+CUST10552,Spain,Female,30,26-35,10,111931.23,609,2,Active,Yes,138972.92,High Value
+CUST10553,Germany,Male,21,18-25,6,148536.28,671,2,Inactive,No,73754.63,High Value
+CUST10554,Germany,Male,43,36-45,6,109423.1,533,2,Active,Yes,75066.16,High Value
+CUST10555,Spain,Female,42,36-45,0,44864.92,637,3,Active,No,111341.52,Regular
+CUST10556,France,Female,47,46-55,3,58709.61,748,1,Active,No,142560.36,Medium Value
+CUST10557,France,Male,28,26-35,1,67146.98,452,3,Active,Yes,54717.92,Medium Value
+CUST10558,France,Female,24,18-25,1,118510.05,788,2,Active,Yes,77218.75,High Value
+CUST10559,Spain,Male,48,46-55,1,161405.6,751,1,Active,Yes,123476.52,High Value
+CUST10560,Germany,Male,61,56-69,3,63391.98,608,2,Active,No,99260.16,Medium Value
+CUST10561,Germany,Male,27,26-35,0,13366.99,698,1,Active,No,34376.22,Regular
+CUST10562,France,Male,56,56-69,3,13189.79,650,4,Active,No,101605.26,Regular
+CUST10563,France,Male,30,26-35,1,41449.9,760,2,Inactive,Yes,44277.02,Regular
+CUST10564,France,Female,48,46-55,4,144621.72,738,1,Active,Yes,86328.07,High Value
+CUST10565,France,Male,24,18-25,2,113856.47,523,1,Active,No,88783.42,High Value
+CUST10566,Germany,Female,66,56-69,7,122965.34,702,2,Active,Yes,133906.44,High Value
+CUST10567,France,Male,59,56-69,3,43751.55,631,1,Inactive,Yes,80124.26,Regular
+CUST10568,France,Female,59,56-69,0,55167.82,657,1,Active,Yes,56327.51,Medium Value
+CUST10569,Spain,Male,53,46-55,0,141764.76,584,1,Active,No,50025.63,High Value
+CUST10570,France,Female,37,36-45,9,213307.24,807,1,Inactive,Yes,133652.74,High Value
+CUST10571,Germany,Male,21,18-25,2,143697.6,743,1,Active,Yes,42231.41,High Value
+CUST10572,Spain,Male,24,18-25,8,143753.69,583,1,Inactive,Yes,75362.91,High Value
+CUST10573,France,Female,18,18-25,6,42152.85,529,1,Active,No,44332.5,Regular
+CUST10574,Germany,Female,61,56-69,1,119526.2,615,2,Active,Yes,120529.53,High Value
+CUST10575,Spain,Female,62,56-69,8,24528.02,689,2,Inactive,Yes,81668.44,Regular
+CUST10576,Spain,Female,59,56-69,9,157486.67,671,1,Active,Yes,65648.68,High Value
+CUST10577,France,Female,64,56-69,1,98596.49,762,1,Active,No,66942.95,Medium Value
+CUST10578,Spain,Female,30,26-35,2,63098.62,721,2,Active,No,130787.85,Medium Value
+CUST10579,France,Male,39,36-45,10,8890.39,737,1,Inactive,No,91990.61,Regular
+CUST10580,France,Male,38,36-45,9,61591.67,679,1,Active,Yes,113322.82,Medium Value
+CUST10581,France,Male,39,36-45,1,77111.54,524,1,Active,No,136615.01,Medium Value
+CUST10582,Spain,Female,45,36-45,2,82835.17,632,2,Active,Yes,137226.42,Medium Value
+CUST10583,France,Female,26,26-35,5,63769.97,745,2,Active,Yes,62706.18,Medium Value
+CUST10584,France,Female,43,36-45,8,51064.01,645,2,Active,Yes,143818.66,Medium Value
+CUST10585,Germany,Male,26,26-35,8,38314.59,695,2,Active,Yes,23233.86,Regular
+CUST10586,France,Female,32,26-35,6,213187.59,621,2,Active,No,68988.62,High Value
+CUST10587,France,Male,27,26-35,2,252116.66,557,1,Active,Yes,136453.85,High Value
+CUST10588,France,Female,41,36-45,3,90212.63,638,2,Active,Yes,55702.79,Medium Value
+CUST10589,France,Female,59,56-69,5,40952.04,677,1,Active,Yes,55500.59,Regular
+CUST10590,France,Female,25,18-25,10,31708.26,590,2,Inactive,Yes,59340.9,Regular
+CUST10591,France,Male,41,36-45,4,63426.89,628,2,Inactive,Yes,99600.74,Medium Value
+CUST10592,Germany,Female,33,26-35,1,245968.57,565,2,Active,Yes,76983.26,High Value
+CUST10593,France,Male,66,56-69,5,93304.27,750,1,Active,Yes,114475.53,Medium Value
+CUST10594,France,Female,43,36-45,2,167688.85,623,1,Active,Yes,136338.38,High Value
+CUST10595,Spain,Female,44,36-45,7,165645.79,780,2,Active,Yes,107645.92,High Value
+CUST10596,France,Female,54,46-55,1,122130.53,787,2,Active,No,46580.67,High Value
+CUST10597,Germany,Female,21,18-25,0,29560.26,642,2,Active,Yes,141248.65,Regular
+CUST10598,France,Male,67,56-69,8,166055.53,559,1,Active,No,54384.07,High Value
+CUST10599,France,Female,41,36-45,2,26444.94,462,2,Inactive,No,39486.26,Regular
+CUST10600,France,Male,36,36-45,10,42368.37,517,2,Active,No,31695.75,Regular
+CUST10601,France,Female,53,46-55,0,96057.74,526,3,Active,Yes,93239.89,Medium Value
+CUST10602,France,Female,56,56-69,6,58669.2,774,2,Active,Yes,34789.12,Medium Value
+CUST10603,France,Female,27,26-35,9,95375.36,660,2,Inactive,No,38040.86,Medium Value
+CUST10604,France,Male,42,36-45,4,25027.49,685,2,Active,Yes,59003.96,Regular
+CUST10605,France,Female,35,26-35,4,42457.26,450,2,Active,Yes,56614.89,Regular
+CUST10606,France,Male,36,36-45,0,118750.87,542,3,Active,Yes,98551.14,High Value
+CUST10607,France,Male,53,46-55,8,368322.46,729,1,Active,Yes,126176.89,High Value
+CUST10608,France,Female,27,26-35,6,191190.35,675,1,Active,No,118975.46,High Value
+CUST10609,Germany,Male,50,46-55,7,18003.36,636,3,Active,Yes,54122.98,Regular
+CUST10610,Germany,Female,67,56-69,8,63261.71,700,2,Active,Yes,51890.36,Medium Value
+CUST10611,France,Male,22,18-25,5,47971.18,797,2,Active,Yes,145552.9,Regular
+CUST10612,Spain,Male,64,56-69,4,76605.6,630,1,Active,Yes,21070.71,Medium Value
+CUST10613,Germany,Male,66,56-69,5,95245.87,656,1,Inactive,Yes,134363.67,Medium Value
+CUST10614,France,Male,52,46-55,10,50372.81,667,2,Active,Yes,45964.71,Medium Value
+CUST10615,Spain,Female,61,56-69,1,152225.7,850,2,Active,No,143146.96,High Value
+CUST10616,Spain,Male,51,46-55,3,169958.76,461,1,Active,Yes,64499.95,High Value
+CUST10617,France,Female,50,46-55,2,163871.53,711,1,Active,No,77245.73,High Value
+CUST10618,France,Male,38,36-45,6,36676.88,639,2,Active,Yes,111925.68,Regular
+CUST10619,Spain,Female,34,26-35,8,98675.89,701,1,Active,Yes,96396.98,Medium Value
+CUST10620,Germany,Female,39,36-45,4,154116.05,590,3,Inactive,Yes,61332.11,High Value
+CUST10621,France,Male,65,56-69,5,135472.91,645,1,Inactive,Yes,91998.02,High Value
+CUST10622,France,Male,54,46-55,9,129393.86,714,2,Active,No,114991.89,High Value
+CUST10623,France,Female,32,26-35,1,193403.43,850,3,Active,No,25503.54,High Value
+CUST10624,France,Male,52,46-55,2,54875.83,722,2,Active,Yes,21455.91,Medium Value
+CUST10625,Germany,Male,45,36-45,2,14978.12,573,1,Active,Yes,79548.7,Regular
+CUST10626,France,Male,24,18-25,8,62609.47,611,2,Active,No,37138.76,Medium Value
+CUST10627,France,Male,49,46-55,6,65410.99,609,1,Active,Yes,106364.76,Medium Value
+CUST10628,Germany,Male,28,26-35,7,335348.29,488,1,Inactive,Yes,47826.82,High Value
+CUST10629,France,Male,27,26-35,10,47021.24,620,4,Active,No,76270.64,Regular
+CUST10630,France,Male,26,26-35,9,167522.85,715,2,Inactive,Yes,45697.22,High Value
+CUST10631,Germany,Male,31,26-35,10,295283.13,535,2,Active,No,91302.87,High Value
+CUST10632,Spain,Male,30,26-35,8,254590.34,744,1,Active,Yes,35086.95,High Value
+CUST10633,Germany,Female,42,36-45,5,77288.13,693,1,Active,No,23003.89,Medium Value
+CUST10634,Germany,Male,19,18-25,3,136849.24,583,1,Active,Yes,26647.11,High Value
+CUST10635,France,Male,52,46-55,0,92918.79,637,2,Active,Yes,144053.6,Medium Value
+CUST10636,France,Male,24,18-25,7,40790.69,793,2,Active,Yes,38497.21,Regular
+CUST10637,Germany,Male,38,36-45,6,185826.28,716,2,Active,Yes,112102.17,High Value
+CUST10638,France,Male,35,26-35,1,118020.61,650,2,Inactive,Yes,28830.41,High Value
+CUST10639,France,Female,20,18-25,7,36562.5,628,1,Active,Yes,34060.85,Regular
+CUST10640,France,Female,59,56-69,4,58828.95,656,1,Active,Yes,86153.91,Medium Value
+CUST10641,France,Male,56,56-69,6,69807.71,603,1,Inactive,No,80433.22,Medium Value
+CUST10642,France,Female,58,56-69,3,171670.97,460,1,Active,Yes,143705.44,High Value
+CUST10643,France,Male,66,56-69,4,28461.45,833,1,Active,Yes,142828.61,Regular
+CUST10644,France,Male,28,26-35,7,28356.48,663,3,Active,Yes,121349.12,Regular
+CUST10645,France,Female,56,56-69,0,91588.21,685,1,Active,Yes,98273.24,Medium Value
+CUST10646,Spain,Female,41,36-45,0,34578.15,644,3,Inactive,Yes,79144.84,Regular
+CUST10647,Germany,Female,63,56-69,3,68445.39,583,1,Active,Yes,66303.21,Medium Value
+CUST10648,Germany,Female,36,36-45,2,53316.36,633,4,Active,No,143121.38,Medium Value
+CUST10649,Spain,Female,21,18-25,9,9578.37,506,2,Active,Yes,98378.15,Regular
+CUST10650,France,Male,43,36-45,1,45256.18,850,3,Active,Yes,95279.43,Regular
+CUST10651,France,Male,55,46-55,2,66784.59,538,1,Active,No,50147.15,Medium Value
+CUST10652,Germany,Male,59,56-69,10,147393.54,557,2,Inactive,No,26070.72,High Value
+CUST10653,Germany,Female,49,46-55,10,257364.74,610,3,Active,Yes,142874.52,High Value
+CUST10654,Germany,Male,56,56-69,10,41645.12,765,1,Active,No,60785.58,Regular
+CUST10655,France,Female,62,56-69,0,88722.66,651,1,Active,Yes,77536.57,Medium Value
+CUST10656,France,Male,63,56-69,0,111520.34,538,1,Active,No,34903.19,High Value
+CUST10657,France,Female,53,46-55,5,318973.93,762,3,Active,Yes,128800.16,High Value
+CUST10658,France,Female,57,56-69,4,51217.67,715,2,Inactive,Yes,23592.14,Medium Value
+CUST10659,Germany,Male,54,46-55,7,39642.77,698,2,Active,No,128418.8,Regular
+CUST10660,Germany,Male,50,46-55,1,59427.61,714,1,Active,Yes,38237.05,Medium Value
+CUST10661,France,Male,53,46-55,3,39387.72,850,1,Active,Yes,135253.33,Regular
+CUST10662,Spain,Male,20,18-25,7,123974.65,846,2,Active,Yes,114870.44,High Value
+CUST10663,Germany,Female,26,26-35,5,150555.21,588,1,Active,Yes,41407.13,High Value
+CUST10664,France,Male,25,18-25,0,93961.66,796,2,Active,Yes,93556.34,Medium Value
+CUST10665,France,Female,50,46-55,3,89493.92,684,3,Active,Yes,60645.32,Medium Value
+CUST10666,France,Male,23,18-25,0,188344.76,694,1,Inactive,Yes,43170.3,High Value
+CUST10667,France,Male,58,56-69,1,67251.54,497,2,Active,Yes,131693.69,Medium Value
+CUST10668,France,Male,56,56-69,4,134170.8,634,1,Active,Yes,72457.96,High Value
+CUST10669,France,Male,21,18-25,7,66354.5,576,2,Active,Yes,71810.68,Medium Value
+CUST10670,France,Male,30,26-35,7,29211.71,724,1,Active,Yes,42085.27,Regular
+CUST10671,France,Female,66,56-69,10,169624.65,746,2,Inactive,No,69798.54,High Value
+CUST10672,Spain,Male,19,18-25,2,98043.29,463,1,Inactive,Yes,133310.19,Medium Value
+CUST10673,France,Female,22,18-25,10,159530.27,648,1,Active,Yes,67206.73,High Value
+CUST10674,Germany,Male,61,56-69,3,105999.55,750,2,Inactive,No,143708.46,High Value
+CUST10675,France,Female,44,36-45,9,115093.43,633,1,Active,No,143020.16,High Value
+CUST10676,Spain,Male,49,46-55,10,40369.87,715,2,Inactive,Yes,38836.83,Regular
+CUST10677,France,Male,38,36-45,5,113042.8,681,1,Active,No,43050.46,High Value
+CUST10678,France,Male,25,18-25,10,187156.38,680,2,Active,Yes,132147.63,High Value
+CUST10679,Spain,Female,55,46-55,10,73712.07,625,1,Active,No,71058.92,Medium Value
+CUST10680,Spain,Female,25,18-25,9,49187.45,540,2,Inactive,Yes,20568.62,Regular
+CUST10681,Spain,Male,67,56-69,2,137512.04,549,1,Active,Yes,55603.34,High Value
+CUST10682,France,Male,20,18-25,1,25917.6,713,1,Active,Yes,97691.77,Regular
+CUST10683,France,Male,61,56-69,5,202970.16,651,1,Active,No,123904.58,High Value
+CUST10684,Germany,Female,20,18-25,10,65707.31,637,2,Active,Yes,37340.52,Medium Value
+CUST10685,Spain,Male,39,36-45,4,134460.44,611,1,Active,Yes,34370.38,High Value
+CUST10686,Germany,Female,23,18-25,9,98623.5,622,3,Inactive,Yes,139872.04,Medium Value
+CUST10687,Germany,Male,19,18-25,4,170188.75,744,3,Active,No,117649.29,High Value
+CUST10688,France,Female,40,36-45,9,176107.66,619,1,Inactive,No,96671.35,High Value
+CUST10689,Spain,Female,61,56-69,4,91265.55,529,2,Active,Yes,119994.28,Medium Value
+CUST10690,France,Female,19,18-25,9,19488.94,716,1,Active,Yes,75751.07,Regular
+CUST10691,France,Male,55,46-55,4,227416.21,631,1,Active,Yes,118599.25,High Value
+CUST10692,France,Female,34,26-35,2,23800.82,652,2,Active,Yes,68334.39,Regular
+CUST10693,Germany,Male,52,46-55,6,111119.0,794,2,Active,No,51732.29,High Value
+CUST10694,France,Female,51,46-55,5,189341.57,648,2,Active,Yes,114771.74,High Value
+CUST10695,France,Male,40,36-45,3,114697.17,676,1,Active,Yes,74557.4,High Value
+CUST10696,Germany,Female,47,46-55,1,49078.18,543,1,Active,Yes,147579.02,Regular
+CUST10697,France,Female,69,56-69,8,92671.49,630,1,Active,Yes,65433.07,Medium Value
+CUST10698,Germany,Male,25,18-25,0,52309.72,704,2,Active,Yes,139824.56,Medium Value
+CUST10699,France,Male,39,36-45,10,50963.88,510,2,Active,Yes,141285.13,Medium Value
+CUST10700,France,Female,61,56-69,3,95996.09,668,2,Active,Yes,51440.88,Medium Value
+CUST10701,Germany,Female,53,46-55,0,4666.01,659,1,Active,Yes,123768.75,Regular
+CUST10702,France,Male,22,18-25,5,67590.2,653,1,Active,Yes,76299.69,Medium Value
+CUST10703,France,Female,30,26-35,3,89760.14,743,1,Active,Yes,139278.21,Medium Value
+CUST10704,France,Female,46,46-55,4,85886.69,680,1,Active,Yes,78516.16,Medium Value
+CUST10705,France,Male,48,46-55,4,43351.7,783,1,Active,No,116759.48,Regular
+CUST10706,Spain,Male,64,56-69,8,114160.86,560,2,Active,Yes,80705.76,High Value
+CUST10707,France,Male,33,26-35,0,82417.3,662,3,Active,Yes,49614.1,Medium Value
+CUST10708,Spain,Female,59,56-69,1,271670.62,657,2,Active,No,45915.52,High Value
+CUST10709,France,Female,47,46-55,5,117844.18,553,1,Active,Yes,75306.06,High Value
+CUST10710,Germany,Female,33,26-35,4,53599.13,736,1,Active,Yes,118214.31,Medium Value
+CUST10711,Spain,Male,29,26-35,10,135575.28,850,2,Active,Yes,98659.29,High Value
+CUST10712,Germany,Female,34,26-35,6,16973.83,648,1,Active,Yes,109521.81,Regular
+CUST10713,France,Male,33,26-35,2,85465.22,695,3,Active,Yes,56702.43,Medium Value
+CUST10714,France,Male,29,26-35,2,98177.45,657,1,Active,Yes,82586.59,Medium Value
+CUST10715,France,Female,25,18-25,9,86161.25,585,1,Active,No,25771.38,Medium Value
+CUST10716,Spain,Male,37,36-45,1,41267.96,486,3,Inactive,No,126279.21,Regular
+CUST10717,Spain,Female,20,18-25,2,84404.44,586,1,Inactive,Yes,148685.98,Medium Value
+CUST10718,Spain,Male,33,26-35,9,30289.99,524,2,Active,Yes,72894.28,Regular
+CUST10719,France,Male,47,46-55,0,230161.62,803,2,Active,Yes,21425.27,High Value
+CUST10720,Germany,Male,62,56-69,4,84906.61,639,1,Active,Yes,42073.04,Medium Value
+CUST10721,Spain,Female,40,36-45,4,111270.71,618,1,Active,Yes,104828.49,High Value
+CUST10722,France,Male,45,36-45,10,22533.54,730,2,Active,No,99570.31,Regular
+CUST10723,France,Female,68,56-69,6,50194.32,549,2,Active,Yes,122422.41,Medium Value
+CUST10724,Germany,Male,57,56-69,3,119687.23,580,1,Active,No,53004.92,High Value
+CUST10725,Germany,Male,22,18-25,2,154518.36,656,3,Active,No,119272.15,High Value
+CUST10726,Spain,Male,37,36-45,0,37353.1,742,1,Inactive,No,109437.92,Regular
+CUST10727,France,Female,57,56-69,7,110930.01,695,1,Active,Yes,61965.88,High Value
+CUST10728,Spain,Female,61,56-69,2,60064.11,672,1,Inactive,Yes,90913.46,Medium Value
+CUST10729,France,Female,18,18-25,1,15673.42,657,1,Inactive,Yes,39145.6,Regular
+CUST10730,France,Female,47,46-55,10,48872.13,686,1,Active,Yes,78833.39,Regular
+CUST10731,France,Female,38,36-45,3,157945.27,668,4,Active,Yes,134555.65,High Value
+CUST10732,Spain,Male,37,36-45,2,169484.26,557,1,Active,Yes,74754.88,High Value
+CUST10733,Germany,Male,23,18-25,0,95782.89,654,1,Active,Yes,129143.67,Medium Value
+CUST10734,Germany,Female,39,36-45,2,87926.85,553,1,Active,Yes,96732.94,Medium Value
+CUST10735,France,Female,35,26-35,1,59205.91,657,2,Active,No,44943.97,Medium Value
+CUST10736,Spain,Female,25,18-25,7,7671.26,606,2,Active,Yes,95543.81,Regular
+CUST10737,France,Female,56,56-69,5,103558.86,850,1,Active,Yes,85777.83,High Value
+CUST10738,Spain,Male,49,46-55,8,39824.28,646,1,Active,Yes,71823.37,Regular
+CUST10739,France,Female,50,46-55,7,186024.64,523,1,Active,No,35551.96,High Value
+CUST10740,France,Female,33,26-35,9,28639.96,637,1,Active,Yes,74172.13,Regular
+CUST10741,France,Female,29,26-35,2,163950.97,696,1,Active,Yes,29459.11,High Value
+CUST10742,France,Female,55,46-55,4,15084.35,800,1,Active,Yes,32839.98,Regular
+CUST10743,Germany,Male,69,56-69,6,337655.02,596,1,Active,No,74069.15,High Value
+CUST10744,Germany,Male,51,46-55,4,23435.5,507,2,Active,No,59699.59,Regular
+CUST10745,France,Female,31,26-35,7,169835.6,723,1,Active,Yes,140320.76,High Value
+CUST10746,Spain,Male,53,46-55,4,47763.61,525,3,Inactive,Yes,68841.75,Regular
+CUST10747,France,Male,50,46-55,0,119238.45,610,3,Active,Yes,118521.56,High Value
+CUST10748,Germany,Female,40,36-45,4,231161.63,626,2,Active,Yes,88932.18,High Value
+CUST10749,Spain,Female,67,56-69,3,64298.92,643,1,Active,Yes,111531.14,Medium Value
+CUST10750,Germany,Male,62,56-69,5,318523.95,712,1,Inactive,No,53815.08,High Value
+CUST10751,France,Male,19,18-25,2,234821.96,588,1,Active,No,142447.65,High Value
+CUST10752,Spain,Male,58,56-69,10,20583.22,625,2,Active,Yes,88911.5,Regular
+CUST10753,Germany,Male,38,36-45,4,78300.4,648,1,Active,Yes,128072.13,Medium Value
+CUST10754,France,Male,19,18-25,1,66036.71,663,2,Active,Yes,67455.94,Medium Value
+CUST10755,France,Female,44,36-45,10,82140.04,658,3,Active,No,33027.48,Medium Value
+CUST10756,Spain,Male,26,26-35,5,59498.37,689,1,Active,No,107582.51,Medium Value
+CUST10757,Germany,Male,18,18-25,5,37573.12,725,2,Inactive,Yes,21008.75,Regular
+CUST10758,Germany,Male,28,26-35,4,74904.7,685,1,Active,Yes,81788.09,Medium Value
+CUST10759,Spain,Male,20,18-25,5,116570.4,690,1,Active,Yes,45064.25,High Value
+CUST10760,Spain,Male,69,56-69,10,4558.89,507,1,Active,Yes,101558.82,Regular
+CUST10761,France,Male,40,36-45,6,145327.5,654,1,Active,No,147324.58,High Value
+CUST10762,France,Male,43,36-45,4,89490.31,693,2,Inactive,Yes,80372.38,Medium Value
+CUST10763,France,Male,21,18-25,0,206178.74,715,1,Active,No,126274.77,High Value
+CUST10764,Germany,Female,35,26-35,7,55822.29,587,1,Active,Yes,86011.94,Medium Value
+CUST10765,France,Female,23,18-25,3,49936.22,590,2,Active,No,84459.2,Regular
+CUST10766,Germany,Male,52,46-55,8,41243.06,598,2,Inactive,Yes,140955.05,Regular
+CUST10767,Spain,Female,39,36-45,9,112371.59,698,1,Active,No,135695.56,High Value
+CUST10768,Spain,Female,60,56-69,5,13211.91,743,2,Active,Yes,122154.06,Regular
+CUST10769,France,Female,32,26-35,0,43718.49,613,2,Active,Yes,58513.25,Regular
+CUST10770,Spain,Female,39,36-45,2,90446.63,731,1,Active,Yes,90851.09,Medium Value
+CUST10771,France,Female,54,46-55,2,20234.43,661,1,Inactive,Yes,49106.64,Regular
+CUST10772,Spain,Female,69,56-69,9,83926.11,638,1,Active,Yes,77709.17,Medium Value
+CUST10773,France,Male,59,56-69,3,182860.02,630,2,Active,Yes,82947.7,High Value
+CUST10774,France,Male,29,26-35,5,167720.45,717,2,Active,No,128113.21,High Value
+CUST10775,Spain,Female,64,56-69,6,72399.61,679,2,Active,Yes,136483.69,Medium Value
+CUST10776,France,Male,66,56-69,9,150869.89,850,1,Active,No,73900.61,High Value
+CUST10777,France,Female,59,56-69,3,109272.39,573,1,Inactive,No,22301.58,High Value
+CUST10778,Germany,Male,55,46-55,5,90379.41,696,1,Active,Yes,132030.6,Medium Value
+CUST10779,Germany,Male,35,26-35,10,121887.86,602,1,Inactive,Yes,42656.23,High Value
+CUST10780,Germany,Male,62,56-69,0,59316.49,571,2,Active,Yes,100844.66,Medium Value
+CUST10781,Germany,Female,52,46-55,7,63573.11,649,2,Active,Yes,23246.22,Medium Value
+CUST10782,Germany,Male,47,46-55,6,107224.08,662,1,Active,Yes,71935.84,High Value
+CUST10783,France,Male,41,36-45,10,78410.71,850,1,Active,No,148174.84,Medium Value
+CUST10784,France,Female,59,56-69,10,164694.13,633,1,Inactive,Yes,33090.17,High Value
+CUST10785,France,Female,47,46-55,8,133177.96,548,1,Inactive,Yes,75080.11,High Value
+CUST10786,Spain,Male,31,26-35,2,132689.67,674,1,Active,Yes,59929.49,High Value
+CUST10787,Germany,Female,23,18-25,1,115102.58,463,1,Active,No,137661.46,High Value
+CUST10788,France,Male,20,18-25,0,89661.42,641,1,Active,Yes,133014.21,Medium Value
+CUST10789,France,Male,33,26-35,2,130606.76,651,1,Inactive,Yes,50900.84,High Value
+CUST10790,Spain,Female,24,18-25,4,155804.94,721,1,Inactive,Yes,30554.41,High Value
+CUST10791,France,Female,69,56-69,10,102424.38,737,1,Active,Yes,101527.99,High Value
+CUST10792,Germany,Male,31,26-35,1,40077.91,604,2,Active,No,63727.93,Regular
+CUST10793,Germany,Female,26,26-35,2,79681.04,636,1,Active,No,107370.97,Medium Value
+CUST10794,Germany,Male,32,26-35,3,20898.02,581,3,Active,Yes,24175.57,Regular
+CUST10795,France,Female,38,36-45,6,178191.39,548,1,Active,Yes,37341.9,High Value
+CUST10796,Spain,Female,52,46-55,2,130928.53,677,1,Active,Yes,109228.39,High Value
+CUST10797,Spain,Female,19,18-25,8,39645.63,535,1,Active,Yes,47608.19,Regular
+CUST10798,Germany,Female,44,36-45,7,47181.31,612,1,Active,Yes,131486.4,Regular
+CUST10799,Germany,Female,19,18-25,3,183315.71,560,2,Inactive,Yes,27616.82,High Value
+CUST10800,Spain,Male,52,46-55,0,44987.91,699,1,Active,Yes,48012.66,Regular
+CUST10801,Germany,Male,35,26-35,0,19794.72,812,3,Active,No,149812.83,Regular
+CUST10802,France,Male,31,26-35,0,28986.27,532,3,Active,Yes,76299.89,Regular
+CUST10803,Germany,Female,37,36-45,0,62809.11,483,2,Active,No,111385.54,Medium Value
+CUST10804,Germany,Male,35,26-35,7,55125.71,638,2,Active,Yes,43746.2,Medium Value
+CUST10805,France,Male,27,26-35,2,58679.25,651,2,Active,Yes,99282.94,Medium Value
+CUST10806,Germany,Female,42,36-45,5,127182.94,669,1,Active,No,114393.79,High Value
+CUST10807,Spain,Female,19,18-25,2,50243.22,609,2,Active,Yes,60881.96,Medium Value
+CUST10808,Spain,Female,42,36-45,10,105278.99,631,1,Active,Yes,127756.62,High Value
+CUST10809,France,Male,50,46-55,4,29658.93,683,1,Active,Yes,98444.29,Regular
+CUST10810,France,Male,53,46-55,6,172258.39,743,1,Active,Yes,70585.99,High Value
+CUST10811,Spain,Female,48,46-55,1,32380.78,474,2,Active,No,92493.51,Regular
+CUST10812,Spain,Male,31,26-35,5,80081.88,616,3,Active,No,94978.91,Medium Value
+CUST10813,France,Male,18,18-25,5,71233.56,669,1,Active,Yes,41519.59,Medium Value
+CUST10814,Spain,Female,63,56-69,10,99617.37,567,2,Active,Yes,72355.21,Medium Value
+CUST10815,Spain,Male,33,26-35,2,135236.69,805,1,Active,Yes,64645.98,High Value
+CUST10816,Germany,Female,63,56-69,5,56395.15,592,1,Inactive,Yes,72117.35,Medium Value
+CUST10817,Germany,Male,69,56-69,9,137615.79,646,1,Active,Yes,118944.38,High Value
+CUST10818,France,Female,20,18-25,9,164751.75,700,1,Active,Yes,82729.99,High Value
+CUST10819,France,Male,52,46-55,4,67280.98,596,1,Active,Yes,142241.1,Medium Value
+CUST10820,France,Male,58,56-69,1,234464.59,483,2,Active,Yes,58177.93,High Value
+CUST10821,Spain,Female,23,18-25,8,99498.77,611,2,Active,Yes,74041.47,Medium Value
+CUST10822,France,Female,42,36-45,7,60746.86,742,1,Active,Yes,122304.39,Medium Value
+CUST10823,France,Female,30,26-35,2,83744.69,619,1,Active,Yes,90983.2,Medium Value
+CUST10824,France,Female,51,46-55,7,234466.79,573,2,Inactive,No,91113.66,High Value
+CUST10825,Germany,Male,25,18-25,8,102208.11,733,2,Active,No,26934.22,High Value
+CUST10826,Spain,Female,38,36-45,2,102140.92,620,1,Active,Yes,71817.96,High Value
+CUST10827,France,Female,51,46-55,2,108798.45,604,1,Inactive,Yes,55195.39,High Value
+CUST10828,France,Female,21,18-25,1,145424.35,663,3,Active,No,149913.57,High Value
+CUST10829,Germany,Female,42,36-45,7,101021.53,719,2,Active,No,60086.16,High Value
+CUST10830,France,Female,32,26-35,9,118737.33,850,1,Active,No,134984.55,High Value
+CUST10831,France,Male,21,18-25,0,82647.63,724,1,Active,Yes,107910.39,Medium Value
+CUST10832,France,Female,62,56-69,7,89646.16,754,2,Active,No,64319.13,Medium Value
+CUST10833,France,Female,29,26-35,6,150613.08,604,1,Active,Yes,90659.47,High Value
+CUST10834,France,Female,49,46-55,6,43541.15,557,4,Active,No,129269.66,Regular
+CUST10835,France,Male,49,46-55,2,79779.18,655,1,Active,No,134837.88,Medium Value
+CUST10836,France,Male,45,36-45,0,64197.11,659,2,Inactive,Yes,40851.2,Medium Value
+CUST10837,Spain,Male,30,26-35,3,23178.43,552,1,Active,No,64144.51,Regular
+CUST10838,France,Female,48,46-55,8,26231.37,634,1,Active,Yes,63579.01,Regular
+CUST10839,Germany,Female,31,26-35,4,79277.02,685,3,Inactive,No,25465.82,Medium Value
+CUST10840,Germany,Male,37,36-45,0,155210.59,682,1,Active,Yes,97770.91,High Value
+CUST10841,France,Male,35,26-35,4,91384.77,695,2,Active,No,131126.61,Medium Value
+CUST10842,Germany,Female,46,46-55,7,50379.81,676,1,Active,Yes,69604.67,Medium Value
+CUST10843,France,Female,23,18-25,7,189226.27,604,1,Active,No,116204.67,High Value
+CUST10844,Spain,Female,49,46-55,4,58462.39,603,1,Active,Yes,101601.05,Medium Value
+CUST10845,France,Male,46,46-55,8,34029.5,542,2,Active,Yes,68834.34,Regular
+CUST10846,France,Female,60,56-69,0,236944.3,810,1,Inactive,Yes,38337.77,High Value
+CUST10847,France,Female,19,18-25,3,83338.98,651,1,Inactive,No,112212.1,Medium Value
+CUST10848,Spain,Male,40,36-45,2,216450.95,629,1,Inactive,Yes,131093.47,High Value
+CUST10849,Germany,Male,36,36-45,1,78242.29,566,2,Inactive,Yes,109161.08,Medium Value
+CUST10850,Germany,Male,48,46-55,7,79614.72,850,2,Active,Yes,22324.2,Medium Value
+CUST10851,France,Female,68,56-69,6,22153.93,553,1,Active,No,48110.28,Regular
+CUST10852,Germany,Male,22,18-25,8,57211.35,611,1,Inactive,Yes,29032.4,Medium Value
+CUST10853,France,Male,36,36-45,1,109210.75,687,3,Active,Yes,94150.19,High Value
+CUST10854,Spain,Female,51,46-55,3,124218.89,704,1,Inactive,Yes,118342.1,High Value
+CUST10855,France,Female,27,26-35,5,87290.49,736,2,Active,Yes,34375.29,Medium Value
+CUST10856,France,Male,42,36-45,10,62988.28,812,2,Active,Yes,128983.92,Medium Value
+CUST10857,France,Female,19,18-25,2,80361.46,695,2,Active,Yes,92216.17,Medium Value
+CUST10858,France,Male,28,26-35,7,32524.44,554,1,Inactive,No,109695.97,Regular
+CUST10859,Germany,Female,67,56-69,2,195098.75,626,2,Active,No,146282.24,High Value
+CUST10860,France,Female,48,46-55,1,134461.85,677,2,Active,Yes,30878.53,High Value
+CUST10861,Spain,Male,32,26-35,2,72446.79,836,2,Active,Yes,137159.12,Medium Value
+CUST10862,France,Male,26,26-35,10,55136.65,524,1,Active,Yes,36393.35,Medium Value
+CUST10863,Germany,Male,40,36-45,5,246322.21,758,1,Active,Yes,71084.64,High Value
+CUST10864,France,Female,36,36-45,1,48539.17,666,1,Active,No,130687.03,Regular
+CUST10865,France,Male,26,26-35,7,66831.06,725,2,Active,Yes,137813.05,Medium Value
+CUST10866,Germany,Female,52,46-55,0,200268.55,640,2,Active,Yes,85828.32,High Value
+CUST10867,France,Female,38,36-45,6,93527.07,574,1,Active,Yes,97233.6,Medium Value
+CUST10868,France,Male,26,26-35,1,17223.44,717,1,Active,No,112059.15,Regular
+CUST10869,Spain,Female,45,36-45,9,96141.72,708,1,Active,Yes,128258.63,Medium Value
+CUST10870,Spain,Female,63,56-69,5,50340.95,737,2,Active,Yes,35796.45,Medium Value
+CUST10871,France,Male,68,56-69,1,21857.6,648,3,Inactive,Yes,125309.01,Regular
+CUST10872,France,Female,24,18-25,1,52311.73,596,1,Active,No,82565.9,Medium Value
+CUST10873,Germany,Female,33,26-35,9,31829.09,509,1,Active,No,78581.05,Regular
+CUST10874,France,Male,33,26-35,7,41249.25,723,1,Active,Yes,75106.97,Regular
+CUST10875,France,Male,50,46-55,1,92697.82,688,2,Active,Yes,86197.51,Medium Value
+CUST10876,France,Female,21,18-25,6,24277.02,563,2,Active,No,142856.57,Regular
+CUST10877,Germany,Female,21,18-25,2,143929.45,601,3,Active,Yes,91266.49,High Value
+CUST10878,Germany,Female,56,56-69,7,62347.22,607,1,Active,Yes,143913.08,Medium Value
+CUST10879,France,Female,57,56-69,6,43828.52,516,3,Active,Yes,43437.72,Regular
+CUST10880,France,Male,34,26-35,7,61825.4,576,1,Active,Yes,114137.68,Medium Value
+CUST10881,France,Female,54,46-55,6,32064.43,547,2,Active,Yes,125591.14,Regular
+CUST10882,Germany,Female,56,56-69,10,31995.69,612,1,Active,No,108286.75,Regular
+CUST10883,France,Female,69,56-69,5,58327.38,583,3,Active,Yes,98899.9,Medium Value
+CUST10884,France,Female,46,46-55,6,96156.25,503,2,Active,Yes,93425.66,Medium Value
+CUST10885,Spain,Male,69,56-69,4,109653.85,832,2,Inactive,No,131920.96,High Value
+CUST10886,France,Female,53,46-55,6,54502.43,762,2,Active,Yes,126814.06,Medium Value
+CUST10887,Germany,Male,55,46-55,0,67322.95,579,1,Active,Yes,35897.53,Medium Value
+CUST10888,France,Male,56,56-69,0,91736.38,674,1,Active,Yes,130316.4,Medium Value
+CUST10889,France,Male,67,56-69,8,207391.2,687,2,Inactive,No,73828.92,High Value
+CUST10890,France,Male,54,46-55,4,82404.92,757,1,Active,No,52980.59,Medium Value
+CUST10891,Germany,Male,69,56-69,4,47142.31,576,1,Active,No,133069.91,Regular
+CUST10892,Spain,Female,52,46-55,2,37584.68,748,1,Active,No,76163.22,Regular
+CUST10893,Spain,Male,24,18-25,4,145027.63,600,2,Inactive,Yes,125087.41,High Value
+CUST10894,France,Male,44,36-45,2,7391.61,529,1,Inactive,Yes,54242.47,Regular
+CUST10895,Germany,Male,45,36-45,8,52519.34,715,1,Inactive,No,20510.81,Medium Value
+CUST10896,France,Female,39,36-45,8,37335.74,766,1,Active,Yes,84409.7,Regular
+CUST10897,France,Male,31,26-35,5,133062.16,850,1,Active,Yes,33029.67,High Value
+CUST10898,Spain,Female,24,18-25,0,179211.65,542,3,Active,Yes,118068.87,High Value
+CUST10899,France,Male,54,46-55,6,66408.21,712,4,Active,Yes,55889.77,Medium Value
+CUST10900,France,Male,39,36-45,6,43055.1,613,2,Inactive,No,77673.93,Regular
+CUST10901,France,Female,22,18-25,9,70950.98,720,1,Active,Yes,31314.36,Medium Value
+CUST10902,France,Female,19,18-25,9,104505.39,517,3,Active,Yes,57265.7,High Value
+CUST10903,France,Female,44,36-45,3,114925.06,536,2,Active,No,121593.73,High Value
+CUST10904,Germany,Male,38,36-45,7,70951.54,580,1,Active,Yes,39706.43,Medium Value
+CUST10905,France,Female,55,46-55,5,180634.64,657,3,Active,Yes,104130.74,High Value
+CUST10906,Spain,Female,32,26-35,3,50220.64,592,2,Active,Yes,139265.36,Medium Value
+CUST10907,Spain,Female,38,36-45,3,58534.38,709,2,Active,No,108378.78,Medium Value
+CUST10908,France,Female,27,26-35,1,60899.88,742,2,Active,No,125432.82,Medium Value
+CUST10909,France,Female,40,36-45,1,95523.8,703,1,Active,No,34166.31,Medium Value
+CUST10910,France,Male,56,56-69,3,138980.54,795,1,Active,No,52595.14,High Value
+CUST10911,Germany,Female,22,18-25,4,26339.38,687,2,Active,Yes,136290.05,Regular
+CUST10912,France,Male,18,18-25,7,30458.82,540,1,Active,No,112963.73,Regular
+CUST10913,Germany,Female,30,26-35,5,96747.41,772,1,Active,No,103142.0,Medium Value
+CUST10914,France,Female,38,36-45,3,31185.93,595,2,Active,Yes,106289.68,Regular
+CUST10915,Germany,Male,43,36-45,10,63499.12,731,2,Active,Yes,73846.07,Medium Value
+CUST10916,France,Male,67,56-69,6,60599.25,791,1,Active,No,25792.36,Medium Value
+CUST10917,France,Male,62,56-69,7,167792.68,691,2,Inactive,No,121977.4,High Value
+CUST10918,Spain,Male,38,36-45,1,219020.63,515,2,Inactive,No,108232.72,High Value
+CUST10919,Spain,Female,35,26-35,6,53626.03,567,2,Inactive,No,81464.58,Medium Value
+CUST10920,France,Male,54,46-55,1,113182.23,769,1,Active,Yes,136968.75,High Value
+CUST10921,Spain,Female,62,56-69,1,61047.22,634,1,Inactive,Yes,63700.76,Medium Value
+CUST10922,France,Female,49,46-55,7,133937.9,657,1,Inactive,Yes,58261.83,High Value
+CUST10923,Spain,Female,53,46-55,1,30398.68,718,1,Inactive,Yes,133463.52,Regular
+CUST10924,Spain,Male,34,26-35,10,164360.59,712,1,Active,No,123608.4,High Value
+CUST10925,France,Male,52,46-55,8,48590.27,675,1,Active,Yes,86947.38,Regular
+CUST10926,France,Male,66,56-69,0,22793.66,631,1,Inactive,Yes,36995.52,Regular
+CUST10927,France,Female,28,26-35,8,51482.11,621,3,Active,Yes,47959.29,Medium Value
+CUST10928,Germany,Male,38,36-45,0,64203.81,727,1,Active,Yes,105309.64,Medium Value
+CUST10929,Germany,Male,69,56-69,9,31907.69,699,2,Inactive,Yes,70055.36,Regular
+CUST10930,France,Female,43,36-45,9,75819.92,626,2,Active,Yes,128741.51,Medium Value
+CUST10931,France,Male,21,18-25,1,122909.42,747,1,Active,Yes,143494.15,High Value
+CUST10932,Spain,Female,51,46-55,5,40605.91,638,3,Active,Yes,124732.8,Regular
+CUST10933,Spain,Male,69,56-69,5,204701.87,573,2,Inactive,No,69080.9,High Value
+CUST10934,Germany,Male,65,56-69,0,314553.77,581,1,Active,Yes,122529.24,High Value
+CUST10935,France,Male,35,26-35,6,65101.8,561,2,Active,Yes,65687.42,Medium Value
+CUST10936,France,Male,57,56-69,7,117791.87,625,1,Active,Yes,41723.01,High Value
+CUST10937,France,Male,52,46-55,1,102374.86,761,2,Active,Yes,24341.12,High Value
+CUST10938,Spain,Female,58,56-69,7,70855.9,577,1,Active,Yes,70143.17,Medium Value
+CUST10939,France,Male,46,46-55,8,65402.07,666,2,Inactive,No,137462.71,Medium Value
+CUST10940,Germany,Male,69,56-69,5,16315.03,590,1,Inactive,No,51068.26,Regular
+CUST10941,France,Male,46,46-55,4,70471.01,626,2,Active,Yes,46846.71,Medium Value
+CUST10942,Germany,Male,55,46-55,8,132789.02,514,1,Active,Yes,146076.7,High Value
+CUST10943,Germany,Male,59,56-69,10,49779.73,630,2,Active,No,23250.53,Regular
+CUST10944,Spain,Male,38,36-45,8,201248.29,632,2,Active,No,122151.68,High Value
+CUST10945,France,Male,59,56-69,0,103529.78,698,1,Active,Yes,61778.09,High Value
+CUST10946,France,Female,30,26-35,10,164743.26,670,2,Inactive,Yes,24873.43,High Value
+CUST10947,France,Female,66,56-69,2,66491.0,542,1,Inactive,Yes,139314.33,Medium Value
+CUST10948,Spain,Male,58,56-69,8,87922.51,747,3,Active,Yes,38153.5,Medium Value
+CUST10949,Spain,Female,34,26-35,10,115972.61,668,1,Active,Yes,91731.31,High Value
+CUST10950,Germany,Male,26,26-35,1,60818.5,667,2,Active,Yes,55627.05,Medium Value
+CUST10951,Germany,Female,58,56-69,3,159395.52,649,2,Active,Yes,28475.06,High Value
+CUST10952,Germany,Male,18,18-25,3,50698.59,603,1,Active,Yes,26489.92,Medium Value
+CUST10953,France,Male,19,18-25,1,250724.82,669,1,Inactive,No,35022.37,High Value
+CUST10954,Spain,Female,65,56-69,2,29626.82,692,1,Inactive,No,29277.71,Regular
+CUST10955,France,Male,46,46-55,2,109862.4,492,2,Active,Yes,118872.56,High Value
+CUST10956,France,Female,50,46-55,0,46524.82,601,1,Inactive,No,83123.61,Regular
+CUST10957,Germany,Male,27,26-35,5,36203.9,627,2,Active,Yes,64575.97,Regular
+CUST10958,France,Male,67,56-69,7,37821.77,673,2,Active,No,74387.96,Regular
+CUST10959,France,Male,57,56-69,2,3922.81,757,1,Active,Yes,140763.08,Regular
+CUST10960,Germany,Male,38,36-45,4,33427.73,580,2,Active,Yes,138397.74,Regular
+CUST10961,France,Female,45,36-45,0,137816.79,605,1,Inactive,Yes,113037.94,High Value
+CUST10962,Germany,Male,28,26-35,9,130008.04,603,1,Active,Yes,135008.71,High Value
+CUST10963,France,Female,51,46-55,6,28094.4,577,2,Active,No,61554.24,Regular
+CUST10964,France,Female,25,18-25,9,108861.51,618,1,Active,Yes,69544.21,High Value
+CUST10965,France,Male,39,36-45,0,43892.53,719,1,Active,Yes,99782.58,Regular
+CUST10966,France,Male,25,18-25,10,12768.09,555,2,Active,Yes,101071.37,Regular
+CUST10967,Germany,Female,66,56-69,8,139184.62,688,1,Active,Yes,82620.98,High Value
+CUST10968,France,Female,32,26-35,7,151633.33,496,3,Active,Yes,72085.52,High Value
+CUST10969,Germany,Male,34,26-35,6,50901.98,599,3,Active,Yes,148203.44,Medium Value
+CUST10970,France,Female,40,36-45,9,166013.08,620,1,Active,No,126746.07,High Value
+CUST10971,Germany,Female,41,36-45,6,73498.83,800,1,Active,No,76547.43,Medium Value
+CUST10972,Spain,Female,62,56-69,4,84097.12,625,2,Active,No,114548.02,Medium Value
+CUST10973,Germany,Male,36,36-45,4,70408.38,451,1,Active,Yes,55043.02,Medium Value
+CUST10974,France,Female,22,18-25,10,27498.99,470,1,Inactive,No,33022.01,Regular
+CUST10975,France,Female,49,46-55,4,64831.53,653,2,Active,Yes,65816.03,Medium Value
+CUST10976,France,Female,61,56-69,0,28675.37,705,1,Active,Yes,72386.46,Regular
+CUST10977,Germany,Female,18,18-25,7,112225.11,683,2,Active,Yes,22149.83,High Value
+CUST10978,France,Male,40,36-45,10,120403.9,665,1,Active,No,125922.96,High Value
+CUST10979,France,Male,54,46-55,0,12491.67,754,1,Active,No,66695.14,Regular
+CUST10980,Germany,Female,25,18-25,3,117262.02,601,1,Active,No,95454.36,High Value
+CUST10981,France,Female,30,26-35,8,73681.95,730,3,Active,No,29615.21,Medium Value
+CUST10982,Spain,Female,25,18-25,8,15923.45,503,2,Active,No,42749.59,Regular
+CUST10983,France,Male,40,36-45,4,90024.73,568,2,Active,No,135660.18,Medium Value
+CUST10984,France,Male,60,56-69,3,59166.48,487,1,Active,Yes,99129.38,Medium Value
+CUST10985,Germany,Female,18,18-25,2,44511.43,625,1,Active,Yes,143536.93,Regular
+CUST10986,France,Female,62,56-69,2,29187.93,645,1,Active,Yes,149837.5,Regular
+CUST10987,Germany,Male,68,56-69,4,100020.61,660,1,Active,Yes,68341.81,High Value
+CUST10988,France,Female,41,36-45,9,82901.01,655,2,Active,Yes,58844.4,Medium Value
+CUST10989,France,Female,52,46-55,0,85737.35,566,2,Active,Yes,131586.29,Medium Value
+CUST10990,Spain,Male,41,36-45,4,161481.12,632,1,Active,Yes,149819.49,High Value
+CUST10991,Spain,Male,34,26-35,5,200679.87,515,3,Active,No,101853.36,High Value
+CUST10992,Germany,Male,22,18-25,6,9677.48,772,1,Active,No,123368.29,Regular
+CUST10993,France,Male,37,36-45,8,100668.68,622,3,Inactive,Yes,121626.96,High Value
+CUST10994,Germany,Male,38,36-45,2,52103.02,606,1,Active,Yes,66194.16,Medium Value
+CUST10995,France,Female,57,56-69,1,111231.33,793,1,Active,Yes,94655.15,High Value
+CUST10996,France,Male,48,46-55,2,42364.5,538,1,Active,Yes,128297.4,Regular
+CUST10997,Spain,Male,63,56-69,8,249788.21,548,1,Active,No,109454.8,High Value
+CUST10998,France,Male,53,46-55,6,114443.19,551,2,Active,Yes,22751.3,High Value
+CUST10999,Spain,Male,28,26-35,8,67751.07,643,1,Active,Yes,63771.74,Medium Value
+CUST11000,France,Male,69,56-69,1,167783.47,688,1,Active,No,38781.84,High Value
+CUST11001,France,Male,32,26-35,4,38723.46,716,2,Active,No,50286.39,Regular
+CUST11002,Germany,Female,36,36-45,3,117879.21,850,2,Active,Yes,137713.63,High Value
+CUST11003,Spain,Male,24,18-25,1,65810.93,447,2,Active,No,24796.13,Medium Value
+CUST11004,Germany,Female,68,56-69,8,72466.85,704,1,Active,Yes,48574.09,Medium Value
+CUST11005,Spain,Female,45,36-45,8,311168.18,599,2,Active,Yes,60244.02,High Value
+CUST11006,Germany,Male,68,56-69,5,102090.48,597,2,Active,Yes,100194.93,High Value
+CUST11007,Germany,Male,60,56-69,10,42359.66,594,1,Active,Yes,89433.22,Regular
+CUST11008,Spain,Female,22,18-25,5,71350.07,568,1,Active,Yes,48375.03,Medium Value
+CUST11009,France,Female,22,18-25,7,44109.72,801,1,Active,Yes,41351.34,Regular
+CUST11010,France,Female,47,46-55,5,48351.51,725,1,Inactive,Yes,50783.74,Regular
+CUST11011,France,Male,49,46-55,0,85380.87,652,1,Active,No,85328.85,Medium Value
+CUST11012,Spain,Female,25,18-25,3,45727.54,771,1,Active,Yes,55253.11,Regular
+CUST11013,Spain,Male,27,26-35,6,167242.54,513,2,Inactive,Yes,143188.33,High Value
+CUST11014,France,Male,55,46-55,1,66823.33,530,2,Active,No,80302.48,Medium Value
+CUST11015,Germany,Female,64,56-69,8,74945.8,453,3,Active,Yes,27643.48,Medium Value
+CUST11016,Spain,Male,49,46-55,7,50796.49,587,2,Inactive,No,114804.63,Medium Value
+CUST11017,France,Male,65,56-69,7,26732.75,664,1,Active,Yes,62749.89,Regular
+CUST11018,Germany,Female,45,36-45,6,30027.93,659,3,Active,Yes,104953.56,Regular
+CUST11019,Spain,Female,34,26-35,3,91549.48,663,2,Active,Yes,56347.27,Medium Value
+CUST11020,France,Male,48,46-55,1,61111.28,523,1,Active,Yes,94196.69,Medium Value
+CUST11021,Germany,Female,25,18-25,2,95624.68,722,2,Active,Yes,120379.83,Medium Value
+CUST11022,France,Male,57,56-69,5,152355.07,671,3,Active,Yes,140641.14,High Value
+CUST11023,Spain,Female,42,36-45,4,43580.41,715,2,Inactive,Yes,53946.53,Regular
+CUST11024,Spain,Female,26,26-35,7,277601.33,479,3,Inactive,Yes,63531.4,High Value
+CUST11025,Spain,Female,19,18-25,5,35087.03,678,1,Inactive,Yes,80354.63,Regular
+CUST11026,France,Female,32,26-35,5,29048.76,543,1,Inactive,Yes,140532.73,Regular
+CUST11027,Spain,Male,67,56-69,0,139975.69,614,1,Inactive,Yes,137180.29,High Value
+CUST11028,Spain,Female,20,18-25,3,76668.31,698,2,Active,Yes,31684.18,Medium Value
+CUST11029,France,Male,66,56-69,4,41981.47,658,2,Active,Yes,37150.88,Regular
+CUST11030,Spain,Male,53,46-55,10,26877.03,573,4,Active,Yes,84416.19,Regular
+CUST11031,France,Female,21,18-25,2,35869.1,650,1,Inactive,No,33860.51,Regular
+CUST11032,Germany,Female,31,26-35,8,80403.7,512,1,Active,Yes,64925.51,Medium Value
+CUST11033,France,Female,58,56-69,0,186223.28,753,2,Active,No,39290.1,High Value
+CUST11034,France,Female,58,56-69,5,17071.82,631,2,Active,Yes,102685.25,Regular
+CUST11035,France,Female,42,36-45,5,85742.46,750,1,Active,Yes,143434.41,Medium Value
+CUST11036,Germany,Male,67,56-69,9,126589.74,602,1,Active,Yes,149575.39,High Value
+CUST11037,France,Female,27,26-35,4,53011.11,602,2,Active,No,68781.35,Medium Value
+CUST11038,Germany,Male,38,36-45,4,192060.04,581,2,Active,Yes,97871.64,High Value
+CUST11039,France,Male,53,46-55,9,93657.6,728,1,Active,Yes,131314.79,Medium Value
+CUST11040,France,Male,29,26-35,4,134597.9,586,1,Active,Yes,35270.07,High Value
+CUST11041,Germany,Male,44,36-45,5,130895.61,708,3,Active,Yes,109643.37,High Value
+CUST11042,Spain,Female,57,56-69,7,162517.01,615,2,Active,Yes,73149.68,High Value
+CUST11043,France,Female,19,18-25,1,69401.64,472,1,Active,Yes,46799.0,Medium Value
+CUST11044,Germany,Male,30,26-35,5,212922.92,598,1,Active,Yes,72357.97,High Value
+CUST11045,Spain,Male,49,46-55,0,73184.5,543,2,Inactive,Yes,29874.84,Medium Value
+CUST11046,Germany,Female,48,46-55,3,65120.22,653,1,Active,Yes,110402.93,Medium Value
+CUST11047,France,Male,33,26-35,9,62906.73,542,1,Active,No,52856.55,Medium Value
+CUST11048,France,Female,49,46-55,2,59425.52,733,2,Active,No,60482.73,Medium Value
+CUST11049,Spain,Male,49,46-55,8,59326.79,641,1,Active,Yes,35740.57,Medium Value
+CUST11050,France,Female,51,46-55,2,81284.95,634,2,Inactive,Yes,132405.68,Medium Value
+CUST11051,Spain,Male,28,26-35,5,83051.28,709,1,Active,No,84147.76,Medium Value
+CUST11052,Germany,Male,27,26-35,0,82210.12,736,2,Active,Yes,94379.09,Medium Value
+CUST11053,Spain,Male,32,26-35,5,67156.82,648,1,Active,Yes,94026.25,Medium Value
+CUST11054,Spain,Female,34,26-35,3,130623.18,580,1,Inactive,No,73364.1,High Value
+CUST11055,Spain,Female,57,56-69,7,88381.0,490,1,Active,Yes,45028.89,Medium Value
+CUST11056,France,Female,35,26-35,10,104873.21,588,3,Active,Yes,116867.26,High Value
+CUST11057,Spain,Male,26,26-35,8,36870.6,594,2,Active,No,36517.31,Regular
+CUST11058,France,Male,42,36-45,3,27199.38,659,1,Inactive,Yes,33503.59,Regular
+CUST11059,France,Male,57,56-69,9,121877.65,618,2,Active,No,112318.85,High Value
+CUST11060,Germany,Male,31,26-35,9,134769.72,711,2,Active,No,47148.81,High Value
+CUST11061,Spain,Male,42,36-45,5,34525.21,594,3,Active,No,59880.46,Regular
+CUST11062,Spain,Male,67,56-69,0,31031.66,644,1,Active,Yes,81779.57,Regular
+CUST11063,Spain,Female,39,36-45,3,170555.64,756,2,Active,Yes,78415.67,High Value
+CUST11064,France,Female,69,56-69,6,53370.05,680,1,Active,Yes,112115.29,Medium Value
+CUST11065,France,Female,47,46-55,0,45645.44,644,1,Active,Yes,101046.13,Regular
+CUST11066,Germany,Male,37,36-45,7,30876.79,595,3,Inactive,Yes,103771.5,Regular
+CUST11067,France,Female,38,36-45,9,31190.93,593,2,Active,Yes,112827.06,Regular
+CUST11068,France,Male,61,56-69,10,273392.15,573,1,Active,Yes,58039.65,High Value
+CUST11069,France,Male,49,46-55,5,70356.94,601,1,Active,Yes,61903.33,Medium Value
+CUST11070,France,Female,68,56-69,4,61406.47,718,2,Active,Yes,76939.71,Medium Value
+CUST11071,France,Male,63,56-69,9,28947.64,630,2,Inactive,No,59970.08,Regular
+CUST11072,France,Male,66,56-69,10,16080.21,528,1,Active,No,148041.92,Regular
+CUST11073,France,Male,38,36-45,8,220211.88,809,3,Active,No,125826.75,High Value
+CUST11074,France,Male,52,46-55,1,150923.4,678,1,Inactive,Yes,41405.11,High Value
+CUST11075,Spain,Male,49,46-55,4,86474.32,523,1,Active,No,20727.24,Medium Value
+CUST11076,France,Female,47,46-55,5,63315.65,610,3,Inactive,No,25561.82,Medium Value
+CUST11077,France,Female,56,56-69,6,84189.04,659,1,Active,Yes,51728.25,Medium Value
+CUST11078,Germany,Male,66,56-69,4,82283.7,803,1,Inactive,Yes,34857.87,Medium Value
+CUST11079,France,Male,29,26-35,8,182971.56,550,2,Active,Yes,89333.95,High Value
+CUST11080,Spain,Female,58,56-69,0,101519.9,737,2,Active,Yes,131539.38,High Value
+CUST11081,Spain,Female,64,56-69,6,52407.69,775,1,Inactive,Yes,115777.53,Medium Value
+CUST11082,France,Female,35,26-35,9,42154.75,593,3,Active,Yes,48029.18,Regular
+CUST11083,France,Male,38,36-45,6,76435.68,625,2,Active,No,71908.9,Medium Value
+CUST11084,Spain,Female,30,26-35,3,64921.1,556,1,Active,Yes,86026.25,Medium Value
+CUST11085,Spain,Female,38,36-45,8,98153.21,631,2,Inactive,Yes,125326.76,Medium Value
+CUST11086,France,Male,25,18-25,10,12742.4,646,1,Active,No,129085.81,Regular
+CUST11087,Germany,Male,63,56-69,4,85023.55,709,1,Inactive,Yes,138263.38,Medium Value
+CUST11088,France,Female,57,56-69,3,35502.09,748,2,Active,No,86201.88,Regular
+CUST11089,Spain,Male,63,56-69,6,48601.84,582,3,Active,Yes,110255.72,Regular
+CUST11090,France,Female,24,18-25,3,69954.11,472,1,Inactive,No,34534.05,Medium Value
+CUST11091,Spain,Female,40,36-45,2,200701.33,648,1,Active,Yes,93487.56,High Value
+CUST11092,Germany,Male,61,56-69,8,107853.79,676,1,Active,Yes,52329.94,High Value
+CUST11093,Germany,Male,49,46-55,10,68790.08,672,1,Active,Yes,76123.2,Medium Value
+CUST11094,Germany,Female,28,26-35,7,24188.06,620,1,Active,No,102426.57,Regular
+CUST11095,France,Male,39,36-45,0,74940.98,661,1,Active,No,53408.17,Medium Value
+CUST11096,France,Male,39,36-45,6,34800.12,786,2,Inactive,Yes,26784.06,Regular
+CUST11097,France,Male,60,56-69,8,149356.91,684,1,Active,No,21330.4,High Value
+CUST11098,France,Male,42,36-45,7,72919.11,616,1,Active,Yes,22880.74,Medium Value
+CUST11099,Spain,Male,39,36-45,7,30460.08,604,2,Active,Yes,21085.47,Regular
+CUST11100,France,Male,45,36-45,5,69576.92,634,2,Active,No,34346.16,Medium Value
+CUST11101,France,Male,46,46-55,10,145353.05,797,1,Active,Yes,51133.53,High Value
+CUST11102,Spain,Female,30,26-35,3,141638.85,633,1,Inactive,Yes,48758.8,High Value
+CUST11103,Spain,Male,35,26-35,7,64636.61,648,2,Active,No,148283.56,Medium Value
+CUST11104,Spain,Female,19,18-25,2,124032.28,606,1,Active,No,59780.79,High Value
+CUST11105,Spain,Male,46,46-55,8,89347.42,748,1,Active,No,36564.7,Medium Value
+CUST11106,France,Female,38,36-45,1,58966.73,826,2,Active,No,90923.13,Medium Value
+CUST11107,France,Male,32,26-35,1,16782.98,690,1,Inactive,Yes,131534.47,Regular
+CUST11108,Spain,Female,69,56-69,6,118462.34,657,1,Active,No,108147.85,High Value
+CUST11109,Germany,Male,44,36-45,9,41102.11,653,1,Active,Yes,58490.67,Regular
+CUST11110,France,Female,67,56-69,3,87286.59,435,1,Active,No,93010.1,Medium Value
+CUST11111,Spain,Male,48,46-55,9,15619.84,717,1,Active,Yes,112931.28,Regular
+CUST11112,France,Male,32,26-35,7,82719.46,662,4,Active,Yes,114653.58,Medium Value
+CUST11113,France,Female,68,56-69,8,69589.15,688,1,Active,Yes,106650.0,Medium Value
+CUST11114,Germany,Female,40,36-45,6,105758.38,585,1,Inactive,Yes,133205.36,High Value
+CUST11115,Germany,Male,41,36-45,4,61411.2,615,1,Inactive,Yes,133113.71,Medium Value
+CUST11116,Germany,Female,61,56-69,7,79829.61,613,3,Active,No,95261.75,Medium Value
+CUST11117,France,Female,30,26-35,3,142508.34,741,2,Active,No,75881.33,High Value
+CUST11118,Spain,Male,39,36-45,1,256794.97,615,1,Active,Yes,103404.14,High Value
+CUST11119,France,Female,60,56-69,10,295574.56,837,2,Inactive,No,126367.56,High Value
+CUST11120,France,Male,54,46-55,5,328866.45,688,1,Inactive,Yes,20734.77,High Value
+CUST11121,Spain,Female,50,46-55,8,76096.03,535,1,Active,Yes,148959.61,Medium Value
+CUST11122,Spain,Male,20,18-25,0,87344.08,638,1,Active,Yes,43776.19,Medium Value
+CUST11123,Spain,Female,36,36-45,10,249723.71,591,1,Active,No,81132.37,High Value
+CUST11124,Spain,Male,40,36-45,9,177831.02,452,1,Active,No,133363.87,High Value
+CUST11125,Germany,Male,46,46-55,6,48348.03,793,2,Active,Yes,49255.25,Regular
+CUST11126,Germany,Female,47,46-55,9,38998.39,713,1,Active,Yes,81983.38,Regular
+CUST11127,France,Female,56,56-69,8,11935.28,697,2,Active,Yes,37235.68,Regular
+CUST11128,France,Male,61,56-69,9,100615.49,664,1,Active,Yes,71359.92,High Value
+CUST11129,France,Male,64,56-69,8,185834.88,525,1,Active,Yes,43027.61,High Value
+CUST11130,France,Female,42,36-45,9,42394.37,606,1,Active,Yes,67271.61,Regular
+CUST11131,Germany,Female,54,46-55,10,43870.76,725,3,Active,Yes,68550.35,Regular
+CUST11132,France,Female,64,56-69,2,117469.49,555,1,Active,No,149112.2,High Value
+CUST11133,France,Female,25,18-25,10,156041.27,422,2,Active,Yes,149325.69,High Value
+CUST11134,France,Female,59,56-69,4,90369.63,629,1,Active,Yes,34922.22,Medium Value
+CUST11135,Germany,Female,33,26-35,7,42485.07,637,1,Active,Yes,114375.94,Regular
+CUST11136,France,Male,25,18-25,7,65535.24,662,1,Active,No,26726.91,Medium Value
+CUST11137,Spain,Female,18,18-25,3,58506.56,715,1,Active,No,23924.96,Medium Value
+CUST11138,France,Female,61,56-69,10,114110.19,707,1,Active,No,33693.41,High Value
+CUST11139,France,Female,22,18-25,10,42743.65,673,1,Active,Yes,145513.14,Regular
+CUST11140,Germany,Female,20,18-25,0,26426.31,757,2,Active,No,142312.26,Regular
+CUST11141,Spain,Male,18,18-25,0,12310.19,513,1,Active,Yes,45210.62,Regular
+CUST11142,France,Male,21,18-25,3,48914.26,695,2,Active,Yes,41017.4,Regular
+CUST11143,Germany,Male,57,56-69,5,145619.54,706,1,Active,Yes,51269.56,High Value
+CUST11144,Germany,Male,52,46-55,7,37263.47,538,2,Active,Yes,87021.11,Regular
+CUST11145,France,Female,49,46-55,5,18336.09,514,2,Active,No,94061.6,Regular
+CUST11146,Spain,Male,59,56-69,8,27132.51,582,1,Active,No,48807.15,Regular
+CUST11147,Spain,Female,51,46-55,8,33662.83,590,1,Active,Yes,118360.96,Regular
+CUST11148,Germany,Female,60,56-69,1,49336.84,717,2,Active,Yes,60241.91,Regular
+CUST11149,Spain,Male,42,36-45,9,24405.11,594,2,Inactive,Yes,139877.07,Regular
+CUST11150,Spain,Male,27,26-35,0,132137.73,572,1,Active,Yes,105373.95,High Value
+CUST11151,Germany,Female,38,36-45,1,30384.25,594,1,Active,Yes,76725.66,Regular
+CUST11152,Spain,Male,63,56-69,4,94429.77,750,3,Active,No,122688.56,Medium Value
+CUST11153,Germany,Male,56,56-69,3,48350.04,651,1,Inactive,No,126328.9,Regular
+CUST11154,Germany,Female,44,36-45,3,39974.76,633,2,Active,Yes,57762.61,Regular
+CUST11155,Germany,Female,44,36-45,8,124506.48,640,1,Active,No,64162.89,High Value
+CUST11156,Spain,Female,19,18-25,10,70688.51,766,1,Inactive,Yes,141674.17,Medium Value
+CUST11157,France,Female,58,56-69,7,169876.07,582,2,Active,Yes,41416.33,High Value
+CUST11158,Spain,Female,65,56-69,5,50178.03,768,2,Inactive,Yes,25479.55,Medium Value
+CUST11159,Spain,Male,30,26-35,0,30087.58,668,1,Inactive,Yes,79027.19,Regular
+CUST11160,France,Female,26,26-35,1,58448.47,635,1,Active,No,124157.29,Medium Value
+CUST11161,Spain,Female,69,56-69,5,45475.42,850,2,Active,Yes,120316.85,Regular
+CUST11162,France,Female,53,46-55,10,216286.92,554,2,Active,Yes,139538.98,High Value
+CUST11163,France,Male,39,36-45,1,43976.21,618,1,Active,Yes,89316.09,Regular
+CUST11164,Germany,Female,59,56-69,9,96486.47,539,2,Active,No,33008.41,Medium Value
+CUST11165,France,Female,43,36-45,4,74605.1,735,2,Active,Yes,96529.57,Medium Value
+CUST11166,Spain,Male,29,26-35,4,29575.49,802,2,Active,No,121191.43,Regular
+CUST11167,Spain,Female,34,26-35,5,37516.53,800,2,Active,No,32132.66,Regular
+CUST11168,Germany,Female,31,26-35,5,84380.96,760,1,Active,Yes,42445.46,Medium Value
+CUST11169,France,Female,31,26-35,5,84620.35,632,2,Active,Yes,21597.79,Medium Value
+CUST11170,France,Male,51,46-55,1,57782.56,617,2,Active,No,97174.84,Medium Value
+CUST11171,Germany,Male,37,36-45,9,69098.48,499,1,Active,Yes,135275.47,Medium Value
+CUST11172,Spain,Female,28,26-35,2,15302.8,833,1,Active,No,107186.23,Regular
+CUST11173,Germany,Female,33,26-35,5,36704.07,692,1,Active,Yes,147665.21,Regular
+CUST11174,France,Female,68,56-69,7,145401.79,605,2,Active,Yes,28194.37,High Value
+CUST11175,Germany,Male,48,46-55,10,49221.91,769,1,Inactive,No,137390.14,Regular
+CUST11176,Germany,Male,23,18-25,0,144957.68,562,2,Active,No,125828.88,High Value
+CUST11177,Spain,Male,36,36-45,0,159667.78,686,3,Active,No,60851.4,High Value
+CUST11178,France,Male,54,46-55,10,158496.86,634,2,Active,Yes,146558.45,High Value
+CUST11179,Spain,Male,21,18-25,1,211170.34,707,3,Active,No,57431.91,High Value
+CUST11180,Germany,Male,64,56-69,10,105201.91,644,3,Active,No,135609.61,High Value
+CUST11181,Spain,Female,21,18-25,5,205969.31,519,1,Active,No,134497.32,High Value
+CUST11182,France,Male,37,36-45,8,138888.77,656,2,Active,Yes,118495.49,High Value
+CUST11183,Germany,Female,27,26-35,3,13760.63,744,1,Inactive,Yes,93251.16,Regular
+CUST11184,Spain,Male,41,36-45,2,98517.75,647,2,Active,No,35600.36,Medium Value
+CUST11185,France,Female,52,46-55,7,295261.05,719,1,Active,Yes,89156.33,High Value
+CUST11186,Spain,Male,43,36-45,10,11046.73,555,4,Inactive,Yes,66383.51,Regular
+CUST11187,Germany,Female,54,46-55,9,73740.69,647,2,Active,Yes,122988.21,Medium Value
+CUST11188,France,Female,55,46-55,8,29082.32,593,2,Active,Yes,118556.8,Regular
+CUST11189,France,Female,38,36-45,10,39216.18,717,1,Active,Yes,138379.63,Regular
+CUST11190,Germany,Male,57,56-69,4,48640.45,652,1,Active,Yes,21927.92,Regular
+CUST11191,France,Male,56,56-69,8,98094.01,712,2,Active,No,125183.42,Medium Value
+CUST11192,Germany,Male,38,36-45,1,57142.06,747,1,Active,Yes,142000.07,Medium Value
+CUST11193,France,Female,27,26-35,2,95883.22,712,2,Inactive,Yes,122609.06,Medium Value
+CUST11194,Germany,Female,55,46-55,6,240769.08,674,1,Inactive,Yes,36925.28,High Value
+CUST11195,France,Female,63,56-69,6,149344.52,560,2,Inactive,Yes,30566.28,High Value
+CUST11196,Spain,Male,21,18-25,5,84079.44,649,1,Inactive,Yes,22709.88,Medium Value
+CUST11197,Spain,Male,62,56-69,5,61242.16,602,2,Active,No,101736.88,Medium Value
+CUST11198,Spain,Female,37,36-45,1,103403.53,619,2,Active,Yes,101857.44,High Value
+CUST11199,Germany,Male,34,26-35,9,13680.43,616,1,Active,No,148298.78,Regular
+CUST11200,France,Male,24,18-25,5,53049.14,561,1,Active,Yes,71745.61,Medium Value
